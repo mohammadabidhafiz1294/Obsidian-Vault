@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux File System.md",
+                "file": "Linux/Linux Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux File System.md",
+                "file": "Linux/Linux Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux File System.md",
+                "file": "Linux/Linux Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux File System.md"
+                "file": "Linux/Linux Cheat Sheet.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "d832c1ecea2a0504",
   "lastOpenFiles": [
     "Linux/Linux File System.md",
+    "Linux/Linux Cheat Sheet.md",
     "Linux"
   ]
 }
