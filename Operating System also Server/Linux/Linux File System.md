@@ -1,2 +1,4 @@
-![[Pasted linux file system structure.png]]
 
+
+
+![[Pasted linux file system structure.png.png]]

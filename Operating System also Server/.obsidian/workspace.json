@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d832c1ecea2a0504",
+            "id": "873acd66c514bfbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux Variable grep command.md",
+                "file": "Linux/Linux File System.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Variable grep command.md",
+                "file": "Linux/Linux File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Variable grep command.md",
+                "file": "Linux/Linux File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Variable grep command.md"
+                "file": "Linux/Linux File System.md"
               }
             }
           },
@@ -155,14 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d832c1ecea2a0504",
+  "active": "873acd66c514bfbe",
   "lastOpenFiles": [
-    "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
-    "Linux/Linux File System.md",
     "Linux/Linux Variable grep command.md",
     "Pasted linux file system structure.png.md",
+    "Linux/Linux File System.md",
+    "Pasted linux file system structure.png.png",
+    "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
+    "delimiter.md",
     "Pasted image 20230511101702.png",
-    "Pasted image 20230511101759.png",
     "Linux/Linux Cheat Sheet.md",
     "Linux"
   ]
