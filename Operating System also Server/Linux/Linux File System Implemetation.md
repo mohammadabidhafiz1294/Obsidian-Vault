@@ -24,3 +24,20 @@ Linux file system contains two-part file system software implementation architec
 The file system requires an API (Application programming interface) to access the function calls to interact with file system components like files and directories. **API** facilitates tasks such as creating, deleting, and copying the files. It facilitates an algorithm that defines the arrangement of files on a file system.
 
 The first two parts of the given file system together called a **Linux virtual file system**. It provides a single set of commands for the kernel and developers to access the file system. This virtual file system requires the specific system driver to give an interface to the file system.
+
+## Linux file system provides
+
+The Linux file system software provides several important functions, including:
+
+1.  File management: Linux file system software allows users to create, delete, and modify files and directories on the file system.
+    
+2.  File permissions: The file system software controls access to files and directories based on user and group permissions. This ensures that users can only access files that they have permission to access.
+    
+3.  File system monitoring: Linux file system software can monitor the health and performance of the file system and alert users to potential issues, such as disk space running low.
+    
+4.  File system journaling: Linux file system software can use journaling to ensure that data is written to disk correctly and prevent data loss in the event of a power failure or system crash.
+    
+5.  File system encryption: Linux file system software can provide encryption for files and directories, protecting sensitive data from unauthorized access.
+    
+
+Some of the popular Linux file systems are ext2, ext3, ext4, XFS, JFS, Btrfs, and NTFS (used for compatibility with Windows systems).

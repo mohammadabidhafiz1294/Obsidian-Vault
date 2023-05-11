@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux File System Implemetation.md",
+                "file": "Linux/Linux File Hierarchy Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux File System Implemetation.md",
+                "file": "Linux/Linux File Hierarchy Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux File System Implemetation.md",
+                "file": "Linux/Linux File Hierarchy Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux File System Implemetation.md"
+                "file": "Linux/Linux File Hierarchy Structure.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +158,15 @@
   },
   "active": "f42984fc065ea824",
   "lastOpenFiles": [
+    "linux system structure 2.png",
     "File System.md",
-    "Linux/Linux File System Implemetation.md",
     "File System Implemetation.md",
+    "Pasted linux file system structure.png.png",
+    "Linux/Linux File Hierarchy Structure.md",
+    "linux system structure.jpg",
+    "Linux/Linux File System Implemetation.md",
     "Linux/Linux Variable grep command.md",
     "Pasted linux file system structure.png.md",
-    "Pasted linux file system structure.png.png",
     "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "delimiter.md",
     "Pasted image 20230511101702.png",
