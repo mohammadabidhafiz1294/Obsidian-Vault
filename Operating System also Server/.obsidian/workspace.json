@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "873acd66c514bfbe",
+            "id": "f42984fc065ea824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux File System.md",
+                "file": "Linux/Linux File System Implemetation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux File System.md",
+                "file": "Linux/Linux File System Implemetation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux File System.md",
+                "file": "Linux/Linux File System Implemetation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux File System.md"
+                "file": "Linux/Linux File System Implemetation.md"
               }
             }
           },
@@ -155,11 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873acd66c514bfbe",
+  "active": "f42984fc065ea824",
   "lastOpenFiles": [
+    "File System.md",
+    "Linux/Linux File System Implemetation.md",
+    "File System Implemetation.md",
     "Linux/Linux Variable grep command.md",
     "Pasted linux file system structure.png.md",
-    "Linux/Linux File System.md",
     "Pasted linux file system structure.png.png",
     "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "delimiter.md",
