@@ -21,3 +21,4 @@ The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) de
 
 ![[linux system structure 2.png| 500]]
 
+![[Internel links]]
