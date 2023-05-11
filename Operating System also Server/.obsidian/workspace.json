@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cfc2119bfc8e6ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f42984fc065ea824",
+  "active": "8cfc2119bfc8e6ca",
   "lastOpenFiles": [
     "File System Implemetation.md",
     "Linux/Linux File Hierarchy Structure.md",
