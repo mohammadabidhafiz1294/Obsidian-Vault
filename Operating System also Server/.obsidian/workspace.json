@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux File Hierarchy Structure.md",
+                "file": "File System Implemetation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "12",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +67,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.51283645629883
   },
   "right": {
     "id": "de071c2775da4e50",
@@ -87,14 +88,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux File Hierarchy Structure.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "File System Implemetation.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux File Hierarchy Structure.md",
+                "file": "File System Implemetation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux File Hierarchy Structure.md"
+                "file": "File System Implemetation.md"
               }
             }
           },
@@ -139,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,22 +156,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f42984fc065ea824",
+  "active": "8d64b8acec15b925",
   "lastOpenFiles": [
-    "Internel links.md",
-    "Linux/Linux File Hierarchy Structure.md",
-    "File System Implemetation.md",
-    "linux system structure 2.png",
-    "File System.md",
-    "Pasted linux file system structure.png.png",
     "linux system structure.jpg",
+    "File System Implemetation.md",
     "Linux/Linux File System Implemetation.md",
+    "File System.md",
+    "Linux/Linux File Hierarchy Structure.md",
     "Linux/Linux Variable grep command.md",
-    "Pasted linux file system structure.png.md",
+    "Linux/Linux Cheat Sheet.md",
     "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
+    "Internel links.md",
+    "linux system structure 2.png",
+    "Pasted linux file system structure.png.png",
+    "Pasted linux file system structure.png.md",
     "delimiter.md",
     "Pasted image 20230511101702.png",
-    "Linux/Linux Cheat Sheet.md",
     "Linux"
   ]
 }

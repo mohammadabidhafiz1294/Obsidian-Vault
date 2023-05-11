@@ -165,7 +165,7 @@ Bash itself does not know regex. Use programs like `grep`, `sed`, `awk`.
 |         | `-i pattern file` | Ignore case    |
 
 
-## Stream redirection
+## Stream Redirection
 - `>` overwrite
 - `>>` append
 
@@ -242,7 +242,7 @@ Creating physical partitions is **not required**! You can create PVs directly!
 | `lvreduce -L -10G /dev/myVG/myVol`           | Reduce LV by 10GB                       |
 | `lvremove /dev/myVG/myVol`                   | Remove logical volume                   |
 
-# Automatic mounting (/etc/fstab)
+# Automatic Mounting (/etc/fstab)
 Example:
 
 | file system                               | mount point | type | option                           | dump | pass |

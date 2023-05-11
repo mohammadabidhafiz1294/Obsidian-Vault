@@ -1,5 +1,5 @@
 
-## apt list --upgradable
+## Apt List --upgradable
 
 ```
 sudo apt upgrade $(apt list --upgradable | grep upgradable | cut -d '/' -f1 | tr -d ' ')

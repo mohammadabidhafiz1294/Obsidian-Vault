@@ -8,14 +8,14 @@ The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) de
 
 	**Is Only a hierarchy structure??**
 	
-	The Linux Filesystem Hierarchy Standard (FHS) is not just a structure, it is a set of guidelines that aim to ensure that all Linux distributions use a consistent and predictable file system structure. The FHS specifies the location and purpose of important system files and directories, and helps ensure that software applications can find the resources they need in a predictable way.
+	The Linux Filesystem Hierarchy Standard (FHS) is not just a structure, it is a set of guidelines that aim to ensure that all Linux distributions use a consistent and predictable [[file system]] structure. The FHS specifies the location and purpose of important system files and directories, and helps ensure that software applications can find the resources they need in a predictable way.
 	
-	The FHS is important because it makes it easier for users and developers to navigate the file system and understand where things are located. It also helps ensure that software applications and system utilities work correctly across different Linux distributions.
+	The FHS is important because it makes it easier for users and developers to navigate the [[file system]] and understand where things are located. It also helps ensure that software applications and system utilities work correctly across different Linux distributions.
 	
 	While the FHS is not a requirement, most Linux distributions follow it closely to ensure consistency and compatibility
 	
 
-## Explaintion 
+## Explaintion
 
 ![[linux system structure.jpg| 500]] 
 

@@ -8,20 +8,20 @@
     -   _**I/O Control**_ consists of _**device drivers**_, special software programs ( often written in assembly ) which communicate with the devices by reading and writing special codes directly to and from memory addresses corresponding to the controller card's registers. Each controller card ( device ) on a system has a different set of addresses ( registers, a.k.a. _**ports**_ ) that it listens to, and a unique set of command codes and results codes that it understands.
     -   The _**basic file system**_ level works directly with the device drivers in terms of retrieving and storing raw blocks of data, without any consideration for what is in each block. Depending on the system, blocks may be referred to with a single block number, ( e.g. block # 234234 ), or with head-sector-cylinder combinations.
     -   The _**file organization module**_ knows about files and their logical blocks, and how they map to physical blocks on the disk. In addition to translating from logical to physical blocks, the file organization module also maintains the list of free blocks, and allocates free blocks to files as needed.
-    -   The _**logical file system**_ deals with all of the meta data associated with a file ( UID, GID, mode, dates, etc ), i.e. everything about the file except the data itself. This level manages the directory structure and the mapping of file names to _**file control blocks, FCBs**_, which contain all of the meta data as well as block number information for finding the data on the disk.
--   The layered approach to file systems means that much of the code can be used uniformly for a wide variety of different file systems, and only certain layers need to be filesystem specific. Common file systems in use include the UNIX file system, UFS, the Berkeley Fast File System, FFS, Windows systems FAT, FAT32, NTFS, CD-ROM systems ISO 9660, and for Linux the extended file systems ext2 and ext3 ( among 40 others supported. )
+    -   The _**logical [[file system]]**_ deals with all of the meta data associated with a file ( UID, GID, mode, dates, etc ), i.e. everything about the file except the data itself. This level manages the directory structure and the mapping of file names to _**file control blocks, FCBs**_, which contain all of the meta data as well as block number information for finding the data on the disk.
+-   The layered approach to file systems means that much of the code can be used uniformly for a wide variety of different file systems, and only certain layers need to be filesystem specific. Common file systems in use include the UNIX file system, UFS, the Berkeley Fast [[File System]], FFS, Windows systems FAT, FAT32, NTFS, CD-ROM systems ISO 9660, and for Linux the extended file systems ext2 and ext3 ( among 40 others supported. )
 
 ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_01_LayeredFileSystem.jpg)  
 **Figure 12.1 - Layered file system.**
 
 ### 12.2 File-System Implementation
 
- #### 12.2.1 Overview
+#### 12.2.1 Overview
 > 
 > -   File systems store several important data structures on the disk:
 >     -   A **_boot-control bloc_k**, ( per volume ) a.k.a. the _**boot block**_ in UNIX or the _**partition boot sector**_ in Windows contains information about how to boot the system off of this disk. This will generally be the first sector of the volume if there is a bootable system loaded on that volume, or the block will be left vacant otherwise.
 >     -   A _**volume control block,**_ ( per volume ) a.k.a. the _**master file table**_ in UNIX or the _**superblock**_ in Windows, which contains information such as the partition table, number of blocks on each filesystem, and pointers to free blocks and free FCB blocks.
->     -   A directory structure ( per file system ), containing file names and pointers to corresponding FCBs. UNIX uses inode numbers, and NTFS uses a _**master file table.**_
+>     -   A directory structure ( per [[file system]] ), containing file names and pointers to corresponding FCBs. UNIX uses inode numbers, and NTFS uses a _**master file table.**_
 >     -   The _**File Control Block, FCB,**_ ( per file ) containing details about ownership, size, permissions, dates, etc. UNIX stores this information in inodes, and NTFS in the master file table as a relational database structure.
 > 
 > > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_02_FileControlBlock.jpg)  
@@ -32,7 +32,7 @@
 >     -   An in-memory directory cache of recently accessed directory information.
 >     -   **_A system-wide open file table_**, containing a copy of the FCB for every currently open file in the system, as well as some other related information.
 >     -   **_A per-process open file table,_** containing a pointer to the system open file table as well as some other information. ( For example the current file position pointer may be either here or in the system file table, depending on the implementation and whether the file is being shared or not. )
-> -   Figure 12.3 illustrates some of the interactions of file system components when files are created and/or used:
+> -   Figure 12.3 illustrates some of the interactions of [[file system]] components when files are created and/or used:
 >     -   When a new file is created, a new FCB is allocated and filled out with important information regarding the new file. The appropriate directory is modified with the new file name and FCB information.
 >     -   When a file is accessed during a program, the open( ) system call reads in the FCB information from disk, and stores it in the system-wide open file table. An entry is added to the per-process open file table referencing the system-wide table, and an index into the per-process table is returned by the open( ) system call. UNIX refers to this index as a _**file descriptor**_, and Windows refers to it as a _**file handle**_.
 >     -   If another process already has a file open when a new request comes in for the same file, and it is sharable, then a counter in the system-wide table is incremented and the per-process table is adjusted to point to the existing entry in the system-wide table.
@@ -41,7 +41,7 @@
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_03_FileSystemStructures.jpg)  
 > **Figure 12.3 - In-memory file-system structures. (a) File open. (b) File read.**
 > 
- #### 12.2.2 Partitions and Mounting
+#### 12.2.2 Partitions and Mounting
 > 
 > -   Physical disks are commonly divided into smaller units called partitions. They can also be combined into larger units, but that is most commonly done for RAID installations and is left for later chapters.
 > -   Partitions can either be used as raw devices ( with no structure imposed upon them ), or they can be formatted to hold a filesystem ( i.e. populated with FCBs and initial directory structures as appropriate. ) Raw partitions are generally used for swap space, and may also be used for certain programs such as databases that choose to manage their own disk storage system. Partitions containing filesystems can generally only be accessed using the file system structure by ordinary users, but can often be accessed as a raw device also by root.
@@ -49,7 +49,7 @@
 > -   The _**root partition**_ contains the OS kernel and at least the key portions of the OS needed to complete the boot process. At boot time the root partition is mounted, and control is transferred from the boot program to the kernel found there. ( Older systems required that the root partition lie completely within the first 1024 cylinders of the disk, because that was as far as the boot program could reach. Once the kernel had control, then it could access partitions beyond the 1024 cylinder boundary. )
 > -   Continuing with the boot process, additional filesystems get mounted, adding their information into the appropriate mount table structure. As a part of the mounting process the file systems may be checked for errors or inconsistencies, either because they are flagged as not having been closed properly the last time they were used, or just for general principals. Filesystems may be mounted either automatically or manually. In UNIX a mount point is indicated by setting a flag in the in-memory copy of the inode, so all future references to that inode get re-directed to the root directory of the mounted filesystem.
 > 
- #### 12.2.3 Virtual File Systems
+#### 12.2.3 Virtual File Systems
 > 
 > -   _**Virtual File Systems, VFS**_, provide a common interface to multiple different filesystem types. In addition, it provides for a unique identifier ( vnode ) for files across the entire space, including across all filesystems of different types. ( UNIX inodes are unique only across a single filesystem, and certainly do not carry across networked file systems. )
 > -   The VFS in Linux is based upon four key object types:
@@ -66,7 +66,7 @@
 
 -   Directories need to be fast to search, insert, and delete, with a minimum of wasted disk space.
 
- #### 12.3.1 Linear List
+#### 12.3.1 Linear List
 > 
 > -   A linear list is the simplest and easiest directory structure to set up, but it does have some drawbacks.
 > -   Finding a file ( or verifying one does not already exist upon creation ) requires a linear search.
@@ -75,7 +75,7 @@
 > -   A linked list makes insertions and deletions into a sorted list easier, with overhead for the links.
 > -   More complex data structures, such as B-trees, could also be considered.
 > 
- #### 12.3.2 Hash Table
+#### 12.3.2 Hash Table
 > 
 > -   A hash table can also be used to speed up searches.
 > -   Hash tables are generally implemented _**in addition to**_ a linear or other structure
@@ -84,7 +84,7 @@
 
 -   There are three major methods of storing files on disks: contiguous, linked, and indexed.
 
- #### 12.4.1 Contiguous Allocation
+#### 12.4.1 Contiguous Allocation
 > 
 > -   _**Contiguous Allocation**_ requires that all blocks of a file be kept together contiguously.
 	-   Performance is very fast, because reading successive blocks of the same file generally requires no movement of the disk heads, or at most one small step to the next adjacent cylinder.
@@ -99,7 +99,7 @@
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_05_ContiguousAllocation.jpg)  
 > **Figure 12.5 - Contiguous allocation of disk space.**
 > 
- #### 12.4.2 Linked Allocation
+#### 12.4.2 Linked Allocation
 > 
 > -   Disk files can be stored as linked lists, with the expense of the storage space consumed by each link. ( E.g. a block may be 508 bytes instead of 512. )
 > -   Linked allocation involves no external fragmentation, does not require pre-known file sizes, and allows files to grow dynamically at any time.
@@ -115,7 +115,7 @@
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_07_FAT_Table.jpg)  
 > **Figure 12.7 File-allocation table.**
 > 
- #### 12.4.3 Indexed Allocation
+#### 12.4.3 Indexed Allocation
 > 
 > -   _**Indexed Allocation**_ combines all of the indexes for accessing each file into a common block ( for that file ), as opposed to spreading them all over the disk or storing them in a FAT table.
 > 
@@ -132,7 +132,7 @@
 >     > **Figure 12.9 - The UNIX inode.**
 >     
 > 
- #### 12.4.4 Performance
+#### 12.4.4 Performance
  
 > -   The optimal allocation method is different for sequential access files than for random access files, and is also different for small files than for large files.
 > -   Some systems support more than one allocation method, which may require specifying how the file is to be used ( sequential or random access ) at the time it is allocated. Such systems also provide conversion utilities.
@@ -143,13 +143,13 @@
 
 > -   Another important aspect of disk management is keeping track of and allocating free space.
 > 
- #### 12.5.1 Bit Vector
+#### 12.5.1 Bit Vector
 > 
 > -   One simple approach is to use a _**bit vector**_, in which each bit represents a disk block, set to 1 if free or 0 if allocated.
 > -   Fast algorithms exist for quickly finding contiguous blocks of a given size
 > -   The down side is that a 40GB disk requires over 5MB just to store the bitmap. ( For example. )
 > 
- #### 12.5.2 Linked List
+#### 12.5.2 Linked List
 > 
 > -   A linked list can also be used to keep track of all free blocks.
 > -   Traversing the list and/or finding a contiguous block of a given size are not easy, but fortunately are not frequently needed operations. Generally the system just adds and removes single blocks from the beginning of the list.
@@ -158,15 +158,15 @@
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_10_LinkedList.jpg)  
 > **Figure 12.10 - Linked free-space list on disk.**
 > 
- #### 12.5.3 Grouping
+#### 12.5.3 Grouping
 > 
 > -   A variation on linked list free lists is to use links of blocks of indices of free blocks. If a block holds up to N addresses, then the first block in the linked-list contains up to N-1 addresses of free blocks and a pointer to the next block of free addresses.
 > 
- #### 12.5.4 Counting
+#### 12.5.4 Counting
 > 
 > -   When there are multiple contiguous blocks of free space then the system can keep track of the starting address of the group and the number of contiguous free blocks. As long as the average length of a contiguous group of free blocks is greater than two this offers a savings in space needed for the free list. ( Similar to compression techniques used for graphics images when a group of pixels all the same color is encountered. )
 > 
- #### 12.5.5 Space Maps
+#### 12.5.5 Space Maps
 > 
 > -   Sun's ZFS file system was designed for HUGE numbers and sizes of files, directories, and even file systems.
 > -   The resulting data structures could be VERY inefficient if not implemented carefully. For example, freeing up a 1 GB file on a 1 TB file system could involve updating thousands of blocks of free list bit maps if the file was spread across the disk.
@@ -177,7 +177,7 @@
 
 ### 12.6 Efficiency and Performance
 
- #### 12.6.1 Efficiency
+#### 12.6.1 Efficiency
 > 
 > -   UNIX pre-allocates inodes, which occupies space even before any files are created.
 > -   UNIX also distributes inodes across the disk, and tries to store data files near their inode, to reduce the distance of disk seeks between the inodes and the data.
@@ -187,7 +187,7 @@
 >     -   Sun's ZFS file system uses 128-bit pointers, which should theoretically never need to be expanded. ( The mass required to store 2^128 bytes with atomic storage would be at least 272 trillion kilograms! )
 > -   Kernel table sizes used to be fixed, and could only be changed by rebuilding the kernels. Modern tables are dynamically allocated, but that requires more complicated algorithms for accessing them.
 > 
- #### 12.6.2 Performance
+#### 12.6.2 Performance
 > 
 > -   Disk controllers generally include on-board caching. When a seek is requested, the heads are moved into place, and then an entire track is read, starting from whatever sector is currently under the heads ( reducing latency. ) The requested sector is returned and the unrequested portion of the track is cached in the disk's electronics.
 > -   Some OSes cache disk blocks they expect to need again in a _**buffer cache.**_
@@ -210,7 +210,7 @@
 
 ### 12.7 Recovery
 
- #### 12.7.1 Consistency Checking
+#### 12.7.1 Consistency Checking
 > 
 > -   The storing of certain data structures ( e.g. directories and inodes ) in memory and the caching of disk operations can speed up performance, but what happens in the result of a system crash? All volatile memory structures are lost, and the information stored on the hard drive may be left in an inconsistent state.
 > -   A _**Consistency Checker**_ ( fsck in UNIX, chkdsk or scandisk in Windows ) is often run at boot time or mount time, particularly if a filesystem was not closed down properly. Some of the problems that these tools look for include:
@@ -225,7 +225,7 @@
 >     -   Consistency checkers will often collect questionable disk blocks into new files with names such as chk00001.dat. These files may contain valuable information that would otherwise be lost, but in most cases they can be safely deleted, ( returning those disk blocks to the free list. )
 > -   UNIX caches directory information for reads, but any changes that affect space allocation or metadata changes are written synchronously, before any of the corresponding data blocks are written to.
 > 
- #### 12.7.2 Log-Structured File Systems ( was 11.8 )
+#### 12.7.2 Log-Structured File Systems ( Was 11.8 )
 > 
 > -   _**Log-based transaction-oriented**_ ( a.k.a. _**journaling**_ ) filesystems borrow techniques developed for databases, guaranteeing that any given transaction either completes successfully or can be rolled back to a safe state before the transaction commenced:
 >     -   All metadata changes are written sequentially to a log.
@@ -237,7 +237,7 @@
 >         -   From the log, the remaining transactions can be completed,
 >         -   or if the transaction was aborted, then the partially completed changes can be undone.
 > 
- #### 12.7.3 Other Solutions ( New )
+#### 12.7.3 Other Solutions ( New )
 > 
 > -   Sun's ZFS and Network Appliance's WAFL file systems take a different approach to file system consistency.
 > -   No blocks of data are ever over-written in place. Rather the new data is written into fresh new blocks, and after the transaction is complete, the metadata ( data block pointers ) is updated to point to the new blocks.
@@ -245,7 +245,7 @@
 >     -   Alternatively, if the old blocks and old metadata are saved, then a _**snapshot**_ of the system in its original state is preserved. This approach is taken by WAFL.
 > -   ZFS combines this with check-summing of all metadata and data blocks, and RAID, to ensure that no inconsistencies are possible, and therefore ZFS does not incorporate a consistency checker.
 > 
- #### 12.7.4 Backup and Restore
+#### 12.7.4 Backup and Restore
 > 
 > -   In order to recover lost data in the event of a disk crash, it is important to conduct backups regularly.
 > -   Files should be copied to some removable medium, such as magnetic tapes, CDs, DVDs, or external removable hard drives.
@@ -267,7 +267,7 @@
 
 ### 12.8 NFS ( Optional )
 
- #### 12.8.1 Overview
+#### 12.8.1 Overview
 > 
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_13_Independent_FS.jpg)  
 > **Figure 12.13 - Three independent file systems.**
@@ -275,14 +275,14 @@
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_14_NFS_Mounting.jpg)  
 > **Figure 12.14 - Mounting in NFS. (a) Mounts. (b) Cascading mounts.**
 > 
- #### 12.8.2 The Mount Protocol
+#### 12.8.2 The Mount Protocol
 > 
 > -   The NFS mount protocol is similar to the local mount protocol, establishing a connection between a specific local directory ( the mount point ) and a specific device from a remote system.
 > -   Each server maintains an _**export list**_ of the local filesystems ( directory sub-trees ) which are exportable, who they are exportable to, and what restrictions apply ( e.g. read-only access. )
 > -   The server also maintains a list of currently connected clients, so that they can be notified in the event of the server going down and for other reasons.
 > -   Automount and autounmount are supported.
 > 
- #### 12.8.3 The NFS Protocol
+#### 12.8.3 The NFS Protocol
 > 
 > -   Implemented as a set of remote procedure calls ( RPCs ):
 >     -   Searching for a file in a directory
@@ -294,9 +294,9 @@
 > ![](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter12/12_15_NFS_Schematic.jpg)  
 > **Figure 12.15 - Schematic view of the NFS architecture.**
 > 
- #### 12.8.4 Path-Name Translation
+#### 12.8.4 Path-Name Translation
 > 
- #### 12.8.5 Remote Operations
+#### 12.8.5 Remote Operations
 > 
 > -   Buffering and caching improve performance, but can cause a disparity in local versus remote views of the same file(s).
 

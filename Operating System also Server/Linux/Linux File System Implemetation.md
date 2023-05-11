@@ -1,4 +1,5 @@
 ## Introduction
+
 The Linux file system software implementation is an important component of the Linux operating system. It provides a way for the operating system to store and organize data on various storage devices, such as hard drives, solid-state drives, USB drives, and network storage.
 
 ## Linux File System Structure
@@ -19,13 +20,13 @@ Linux file system contains two-part file system software implementation architec
 
 ![[Pasted linux file system structure.png.png]]
 
- HERE, some filesystem types in linux: ext, ext2, ext3, ext4, hpfs, iso9660, JFS, minix,msdos, ncpfs nfs, ntfs, proc, Reiserfs, smb, sysv, umsdos, vfat, XFS, xiafs 
+*******HERE, some filesystem types in linux: ext, ext2, ext3, ext4, hpfs, iso9660, JFS, minix,msdos, ncpfs nfs, ntfs, proc, Reiserfs, smb, sysv, umsdos, vfat, XFS, xiafs*******
 
 The file system requires an API (Application programming interface) to access the function calls to interact with file system components like files and directories. **API** facilitates tasks such as creating, deleting, and copying the files. It facilitates an algorithm that defines the arrangement of files on a file system.
 
 The first two parts of the given file system together called a **Linux virtual file system**. It provides a single set of commands for the kernel and developers to access the file system. This virtual file system requires the specific system driver to give an interface to the file system.
 
-## Linux file system provides
+## Linux File System Provides
 
 The Linux file system software provides several important functions, including:
 
