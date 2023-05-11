@@ -15,6 +15,7 @@
               "state": {
                 "file": "Linux/Linux File Hierarchy Structure.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -139,12 +140,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +158,11 @@
   },
   "active": "f42984fc065ea824",
   "lastOpenFiles": [
+    "File System Implemetation.md",
+    "Linux/Linux File Hierarchy Structure.md",
     "linux system structure 2.png",
     "File System.md",
-    "File System Implemetation.md",
     "Pasted linux file system structure.png.png",
-    "Linux/Linux File Hierarchy Structure.md",
     "linux system structure.jpg",
     "Linux/Linux File System Implemetation.md",
     "Linux/Linux Variable grep command.md",

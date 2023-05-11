@@ -17,7 +17,7 @@ The Linux File Hierarchy Structure or the Filesystem Hierarchy Standard (FHS) de
 
 ## Explaintion 
 
-![[linux system structure.jpg]] 
+![[linux system structure.jpg| 500]] 
 
-![[linux system structure 2.png| {length=50%}]]
+![[linux system structure 2.png| 500]]
 
