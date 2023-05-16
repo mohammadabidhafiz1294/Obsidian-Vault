@@ -1,4 +1,4 @@
-d## Definition
+## Definition
 **File System**, also known as **filesystem** or **fs**, is a method and data structure that the operating system uses to control how data is stored and retrieved. By separating the data into pieces and giving each a name, the data is easily isolated and identified. Taking its name from the way a paper-based data management system is named, each group of data is called a 'file'. The structure and logic rules used to name the groups of data and their names is called a 'file system'.
 
 ### Why Is File System Important
