@@ -1,35 +1,36 @@
 {
   "main": {
-    "id": "a98980b3e2026f90",
+    "id": "d3e7bc2c5b46ed90",
     "type": "split",
     "children": [
       {
-        "id": "d3ccadf4cd306a63",
+        "id": "2ba29772b4e4953c",
         "type": "tabs",
         "children": [
           {
-            "id": "a1f16a164b2a2389",
+            "id": "f42984fc065ea824",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d310b100ed6b2297",
+    "id": "cca6b8bf27e745e5",
     "type": "split",
     "children": [
       {
-        "id": "840cdfc46a7861c3",
+        "id": "18fbaab2c1723642",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9f1be59bc30816",
+            "id": "4268f5021e97a559",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +40,7 @@
             }
           },
           {
-            "id": "25b7816ced64fd9d",
+            "id": "8d64b8acec15b925",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +55,7 @@
             }
           },
           {
-            "id": "038e1e1bc62b7f0a",
+            "id": "48827b86afd94397",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,34 +66,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.51283645629883
   },
   "right": {
-    "id": "cf2e1dc3127ebf49",
+    "id": "de071c2775da4e50",
     "type": "split",
     "children": [
       {
-        "id": "5d6dd05d40e09218",
+        "id": "d9218b593b6ead9b",
         "type": "tabs",
         "children": [
           {
-            "id": "d988d3868b19fa54",
+            "id": "b5ee7002782a2723",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "391f69d1d6bcdef7",
+            "id": "68ac268633186c34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +104,7 @@
             }
           },
           {
-            "id": "32280781f14cceb4",
+            "id": "00abffcc92339f55",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,10 +115,18 @@
             }
           },
           {
-            "id": "31c17a6be91ee655",
+            "id": "f776f03d00ceafe3",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c581437098f66067",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -125,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,6 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1f16a164b2a2389",
-  "lastOpenFiles": []
+  "active": "f42984fc065ea824",
+  "lastOpenFiles": [
+    "preamble.sty",
+    "preamble.sty.md",
+    "File System.md",
+    "Internel links.md",
+    "File System Implemetation.md",
+    "linux system structure.jpg",
+    "Linux/Linux File System Implemetation.md",
+    "Linux/Linux File Hierarchy Structure.md",
+    "Linux/Linux Variable grep command.md",
+    "Linux/Linux Cheat Sheet.md",
+    "Linux/LINUX CHEATSHEET DOCUMENTATION.md",
+    "linux system structure 2.png",
+    "Pasted linux file system structure.png.png",
+    "Pasted linux file system structure.png.md",
+    "delimiter.md",
+    "Pasted image 20230511101702.png",
+    "Linux"
+  ]
 }
