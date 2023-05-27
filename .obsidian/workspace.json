@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems.md",
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems.md",
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems.md",
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems.md"
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md"
               }
             }
           },
@@ -158,7 +158,7 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Operating System also Server/Linux/Linux ECO-systems.md",
+    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "README.md",
