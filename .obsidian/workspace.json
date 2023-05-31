@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md"
+                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md"
               }
             }
           },
@@ -158,8 +158,13 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "ecosystem with nextcloud , Davx5 & KDE CONNECT.md",
+    "Techno Server/Untitled.md",
+    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+    "linux-system-directoies-poster.webp",
+    "Internel links.md",
+    "Operating System also Server/Linux/Linux File System Implemetation.md",
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+    "ecosystem with nextcloud , Davx5 & KDE CONNECT.md",
     "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "README.md",
@@ -189,11 +194,7 @@
     "ELECTRODYNAMICS (PH-301)",
     "preamble.sty",
     "preamble.sty.md",
-    "File System.md",
-    "Internel links.md",
-    "File System Implemetation.md",
     "linux system structure.jpg",
-    "Linux/Linux File System Implemetation.md",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png",
     "Pasted image 20230511101702.png",

@@ -8,3 +8,5 @@
 - DAVx⁵ is a CalDAV/CardDAV management and sync app for Android. It also provides access to your WebDAV Cloud files.
 -- CardDAV: synchronizes contact data across different devices and is also available through your Hover email account.
 -- CalDAV is *a protocol used to sync calendars*. At One.com you can use CalDAV to sync the calendar in your webmail, to devices and applications with support for CalDAV.
+
+
