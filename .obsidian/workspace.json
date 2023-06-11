@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+                "file": "Operating System also Server/Linux/Linux Variable grep command.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+                "file": "Operating System also Server/Linux/Linux Variable grep command.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+                "file": "Operating System also Server/Linux/Linux Variable grep command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/Linux File Hierarchy Structure.md"
+                "file": "Operating System also Server/Linux/Linux Variable grep command.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c581437098f66067",
+  "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Techno Server/Untitled.md",
+    "Operating System also Server/File System.md",
+    "Operating System also Server/File System Implemetation.md",
+    "Techno Server/Servers/Web servers/Website Server Called!.md",
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+    "Techno Server/Untitled.md",
     "linux-system-directoies-poster.webp",
     "Internel links.md",
     "Operating System also Server/Linux/Linux File System Implemetation.md",
@@ -182,8 +185,6 @@
     "SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
     "NUCLEAR PHYSICS (PH-304)/Radioactivity (CH-2).md",
     "NUCLEAR PHYSICS (PH-304)/the Nucleus (PH-1).md",
-    "NUCLEAR PHYSICS (PH-304)/Nuclear Reactions (CH-5).md",
-    "QUANTUM MECHANICS (PH-302)/Physical Basis of Quantum Mechanics (CH-1).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
@@ -193,7 +194,6 @@
     "QUANTUM MECHANICS (PH-302)",
     "ELECTRODYNAMICS (PH-301)",
     "preamble.sty",
-    "preamble.sty.md",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png",
