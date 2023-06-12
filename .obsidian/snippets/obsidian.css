@@ -1,3 +1,9 @@
+/* Increase file name font size in file explorer */
+nav.md-nav.md-nav--vertical .nav-folder-title,
+nav.md-nav.md-nav--vertical .nav-file-title {
+    font-size: 14px; /* Adjust this value to your desired size */
+}
+
 /* Adjust the size of math text */
 .MathJax_Display,
 .MathJax_SVG_Display {
