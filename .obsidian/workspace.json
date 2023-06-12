@@ -11,8 +11,13 @@
             "id": "355ad463adab865a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating System also Server/File System vs Volume Manager.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5128364562988
+    "width": 286.5
   },
   "right": {
     "id": "de071c2775da4e50",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating System also Server/File System vs Volume Manager.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating System also Server/File System vs Volume Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating System also Server/File System vs Volume Manager.md"
+              }
             }
           },
           {
@@ -135,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,11 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c581437098f66067",
+  "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Operating System also Server/Linux/Linux Variable grep command.md",
     "Operating System also Server/File System.md",
     "Operating System also Server/File System Implemetation.md",
+    "Operating System also Server/File System vs Volume Manager.md",
+    "Operating System also Server/Linux/Linux Variable grep command.md",
     "Techno Server/Servers/Web servers/Website Server Called!.md",
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "Techno Server/Untitled.md",
@@ -175,7 +186,6 @@
     "SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
     "RELATIVITY (PH-308)/Background (CH-1).md",
     "SOLID STATE PYSICS (PH-305)/Imperfections in Crystals (CH-6).md",
-    "NUCLEAR PHYSICS (PH-304)/Radioactivity (CH-2).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",

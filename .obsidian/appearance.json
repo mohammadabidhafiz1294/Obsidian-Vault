@@ -4,5 +4,7 @@
   "translucency": true,
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "baseFontSize": 18,
+  "interfaceFontFamily": ""
 }

@@ -1,5 +1,5 @@
 ## Definition
-**File System**, also known as **filesystem** or **fs**, is a method and data structure that the operating system uses to control how data is stored and retrieved. By separating the data into pieces and giving each a name, the data is easily isolated and identified. Taking its name from the way a paper-based data management system is named, each group of data is called a 'file'. The structure and logic rules used to name the groups of data and their names is called a 'file system'.
+**FileSystem**, also known as #FileSystem  or **fs**, is a method and data structure that the operating system uses to control how data is stored and retrieved. By separating the data into pieces and giving each a name, the data is easily isolated and identified. Taking its name from the way a paper-based data management system is named, each group of data is called a 'file'. The structure and logic rules used to name the groups of data and their names is called a 'file system'.
 
 ### Why Is File System Important
 
@@ -180,7 +180,7 @@ FAT32
 
 exFAT
 
--   128 PB
+-   128 #PB
 
 -   128 PB
 
@@ -229,3 +229,23 @@ Here is when to use the right file system:
 
 -   EXT4 is regarded as the best Linux file system for now.
 
+
+#PB :  A petabyte (PB) is a unit of digital information storage that represents 1,000,000,000,000,000 bytes, or 10^15 bytes. It is a very large amount of data storage.
+	To give you an idea of scale, a petabyte is larger than a terabyte (10^12 bytes), a gigabyte (10^9 bytes), and a megabyte (10^6 bytes). It is often used to measure data storage in large-scale systems, such as data centers or 
+	enterprise-level storage solutions.
+	128 PB is an enormous amount of storage capacity and is typically associated with highly demanding applications like big data analytics, scientific research, or cloud storage services. It can hold a massive volume of data, including files, documents, images, videos, and more.
+
+
+
+### L.V.M. (Logical #Volume-Manager ):
+ 
+ L.V.M. provides logical volume management, which allows for more flexible and dynamic management of storage. With LVM, you can create logical volumes that span multiple physical disks, resize volumes on the fly, and create snapshots for backups. This flexibility is useful in scenarios where you need to efficiently manage and allocate storage resources across multiple disks or when you want to resize or reorganize storage without disrupting the file system. LVM allows for easier volume management and increases the overall flexibility of storage configuration.
+ 
+ 
+### BTRFS (B-tree #FileSystem):
+
+ Btrfs is a modern, next-generation file system designed to address limitations of earlier file systems like ext4. It introduces several advanced features, including built-in RAID support, snapshot capabilities, subvolumes (isolated file system trees within a single file system), and data checksumming for enhanced data integrity. Btrfs aims to provide improved scalability, performance, and data protection compared to traditional file systems. It also supports features like transparent compression, online file system repair, and online resizing. Btrfs is particularly useful in scenarios where you require advanced data management capabilities or want to experiment with new file system technologies.
+
+ 
+
+ 
