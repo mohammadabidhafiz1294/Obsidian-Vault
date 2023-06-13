@@ -65,3 +65,47 @@ This command will display the name of the current desktop environment.
     - If you are using a display manager like GDM (GNOME Display Manager) or LightDM, you can often select the desktop environment at the login screen. The display manager may display the available desktop environments or have an option to select one.
 
 These methods should help you determine the currently running desktop environment on your Linux system. However, keep in mind that some distributions or custom configurations may use different methods or have variations in environment variables or process names.
+
+- #### **HOW TO UNINSTALL GNOME DESKTOP ENVIRONMENT**
+To uninstall the GNOME desktop and all related packages from an Ubuntu Server, you can follow these steps:
+
+1. Open a terminal on your Ubuntu Server.
+    
+2. Remove the GNOME desktop package by running the following command:
+    
+    arduino
+    
+
+- `sudo apt remove gnome-shell`
+    
+- Remove the GNOME-related packages by running the following command:
+    
+- `sudo apt autoremove`
+    
+    This command will remove any unused packages, including those related to the GNOME desktop.
+    
+- Clean up any residual configuration files by running the following command:
+    
+- `sudo apt purge gnome-shell`
+    
+    This command removes not only the package but also any configuration files associated with it.
+    
+- Optionally, you can also remove any other GNOME-related packages you may have installed. For example, you can remove the GNOME terminal using the following command:
+    
+    arduino
+    
+- `sudo apt remove gnome-terminal`
+    
+    Repeat this command for any other GNOME packages you want to remove.
+    
+- Finally, update the package list and upgrade any remaining packages by running the following commands:
+    
+    sql
+    
+
+1. `sudo apt update sudo apt upgrade`
+    
+    This ensures that your system is up to date and any remaining packages are properly upgraded.
+    
+
+Please note that removing the GNOME desktop and related packages may affect your system's appearance and functionality. Make sure you have an alternative desktop environment or a backup plan in place before proceeding with these steps.

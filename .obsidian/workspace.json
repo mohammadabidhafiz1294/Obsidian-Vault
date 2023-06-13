@@ -10,16 +10,14 @@
           {
             "id": "355ad463adab865a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
+                "file": "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
+                "file": "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
+                "file": "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/Linux Desktop Environment.md"
+                "file": "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md"
               }
             }
           },
@@ -161,20 +159,21 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+    "Operating System also Server/Linux/Linux Cheat Sheet.md",
+    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "Operating System also Server/Linux/Linux Desktop Environment.md",
+    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+    "linux-system-directoies-poster.webp",
+    "Techno Server/Servers/Web servers/Website Server Called!.md",
+    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
     "Short Key Notes.md",
     "Operating System also Server/File System vs Volume Manager.md",
     "Operating System also Server/File System.md",
     "Operating System also Server/File System Implemetation.md",
     "Operating System also Server/Linux/Linux Variable grep command.md",
-    "Techno Server/Servers/Web servers/Website Server Called!.md",
-    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "Techno Server/Untitled.md",
-    "linux-system-directoies-poster.webp",
     "Internel links.md",
     "Operating System also Server/Linux/Linux File System Implemetation.md",
-    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "ecosystem with nextcloud , Davx5 & KDE CONNECT.md",
     "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
@@ -187,7 +186,6 @@
     "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
     "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1) 1.md",
     "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
-    "STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",

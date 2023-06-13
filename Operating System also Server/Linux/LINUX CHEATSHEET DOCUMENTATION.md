@@ -30,6 +30,7 @@
 
 # Basics
 ## File Hierarchy Standard (FHS)
+
 | Path   | Content                             |
 | ------ | ----------------------------------- |
 | /bin   | Binaries (User)                     |
@@ -200,6 +201,7 @@ Creating physical partitions is **not required**! You can create PVs directly!
 | `resize2fs /dev/myVG/myVol`                 | Resize ext3/4 filesystem             |
 
 ## LVM
+
 | Item            | Description                       |
 | --------------- | --------------------------------- |
 | Physical Volume | Representation of physical volume |
