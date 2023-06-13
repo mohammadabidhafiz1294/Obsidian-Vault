@@ -10,14 +10,16 @@
           {
             "id": "355ad463adab865a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md"
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md"
               }
             }
           },
@@ -159,8 +161,9 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Short Key Notes.md",
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+    "Operating System also Server/Linux/Linux Desktop Environment.md",
+    "Short Key Notes.md",
     "Operating System also Server/File System vs Volume Manager.md",
     "Operating System also Server/File System.md",
     "Operating System also Server/File System Implemetation.md",
@@ -185,7 +188,6 @@
     "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1) 1.md",
     "STATISTICAL MECHANICS (PH-307)/Quantum Statistical Mechanics (CH-1).md",
     "STATISTICAL MECHANICS (PH-307)/Classical Statistical Mechanics (CH-1).md",
-    "SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
