@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GIthub/Github Actions.md",
+                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git & GIthub/Github Actions.md",
+                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & GIthub/Github Actions.md",
+                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GIthub/Github Actions.md"
+                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md"
               }
             }
           },
@@ -159,12 +159,14 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Operating System also Server/Linux/Linux Cheat Sheet.md",
+    "Operating System also Server/Linux/Linux Desktop Environment.md",
+    "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "Git & GIthub/Github Actions.md",
+    "Operating System also Server/Linux/UBUNTU",
+    "Operating System also Server/Linux/Linux Cheat Sheet.md",
     "Git & GIthub",
     "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
-    "Operating System also Server/Linux/Linux Desktop Environment.md",
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "linux-system-directoies-poster.webp",
     "Techno Server/Servers/Web servers/Website Server Called!.md",
@@ -186,7 +188,6 @@
     "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
     "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/X-Rays (CH-4).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
@@ -195,7 +196,6 @@
     "ATOMIC & MOLECULAR PHYSICS (PH-303)",
     "QUANTUM MECHANICS (PH-302)",
     "ELECTRODYNAMICS (PH-301)",
-    "preamble.sty",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png",
