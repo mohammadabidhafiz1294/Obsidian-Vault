@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KIND.md",
+                "file": "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KIND.md",
+                "file": "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KIND.md"
+                "file": "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md"
               }
             }
           },
@@ -141,8 +141,8 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
     "TECHNO Services/K8 Tutorial/KIND.md",
+    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
