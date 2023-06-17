@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+                "file": "TECHNO Services/Docker Tutorial/Docker Structure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+                "file": "TECHNO Services/Docker Tutorial/Docker Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md"
+                "file": "TECHNO Services/Docker Tutorial/Docker Structure.md"
               }
             }
           },
@@ -141,13 +141,22 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/KIND.md",
+    "TECHNO Services/Docker Tutorial/Container.md",
+    "TECHNO Services/Docker Tutorial/Docker Structure.md",
+    "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
+    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+    "TECHNO Services/Docker Tutorial/Docker Engine.md",
+    "TECHNO Services/Docker Tutorial/Docker Volume.md",
+    "Pasted image 20230618001526.png",
+    "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
+    "TECHNO Services/Docker Tutorial/Docker commands.md",
+    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
+    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
     "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "TECHNO Services/K8 Tutorial/KIND.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
-    "TECHNO Services/Docker Tutorial/Docker Compose.md",
-    "TECHNO Services/Docker Tutorial/Docker commands.md",
     "TECHNO Services/Docker Tutorial/Prometheus.md",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
@@ -157,7 +166,6 @@
     "Operating System also Server/Linux/Linux Cheat Sheet.md",
     "Git & GIthub",
     "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
-    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "linux-system-directoies-poster.webp",
     "Servers/Web servers/Website Server Called!.md",
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
@@ -165,13 +173,6 @@
     "Operating System also Server/File System vs Volume Manager.md",
     "Operating System also Server/File System.md",
     "Operating System also Server/File System Implemetation.md",
-    "Operating System also Server/Linux/Linux Variable grep command.md",
-    "Techno Server/Untitled.md",
-    "Internel links.md",
-    "Operating System also Server/Linux/Linux File System Implemetation.md",
-    "ecosystem with nextcloud , Davx5 & KDE CONNECT.md",
-    "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
