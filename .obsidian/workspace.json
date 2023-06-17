@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 240.5
   },
   "right": {
     "id": "de071c2775da4e50",
@@ -82,29 +82,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5ee7002782a2723",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "68ac268633186c34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md"
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md"
               }
             }
           },
@@ -140,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,15 +135,20 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "Operating System also Server/Linux/Linux Desktop Environment.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
+    "TECHNO Services/Docker Tutorial/Docker Compose.md",
+    "TECHNO Services/Docker Tutorial/Docker commands.md",
+    "TECHNO Services/K8 Tutorial/Untitled.md",
+    "TECHNO Services/Docker Tutorial/Prometheus.md",
+    "TECHNO Services/K8 Tutorial",
+    "Techno Server/Untitled.canvas",
+    "Operating System also Server/Linux/Linux Desktop Environment.md",
     "Git & GIthub/Github Actions.md",
     "Operating System also Server/Linux/UBUNTU",
     "Operating System also Server/Linux/Linux Cheat Sheet.md",
@@ -169,7 +157,7 @@
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "linux-system-directoies-poster.webp",
-    "Techno Server/Servers/Web servers/Website Server Called!.md",
+    "Servers/Web servers/Website Server Called!.md",
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
     "Short Key Notes.md",
     "Operating System also Server/File System vs Volume Manager.md",
@@ -184,10 +172,6 @@
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "README.md",
     "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
-    "MathJAX note samples.md",
-    "ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
-    "ELECTRODYNAMICS (PH-301)/Radiation from an Accelerated Charge (CH-5).md",
-    "ATOMIC & MOLECULAR PHYSICS (PH-303)/Atomic Models (CH-1).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
@@ -195,7 +179,6 @@
     "NUCLEAR PHYSICS (PH-304)",
     "ATOMIC & MOLECULAR PHYSICS (PH-303)",
     "QUANTUM MECHANICS (PH-302)",
-    "ELECTRODYNAMICS (PH-301)",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png",

@@ -1,4 +1,4 @@
-## Linux ecosystem UT links
+## Linux Ecosystem UT Links
 
 [Linux ecosystem with nextcloud davx5 & kde connect](https://youtu.be/oGYppxV-kFE)
 
