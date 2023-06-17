@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md",
+                "file": "TECHNO Services/K8 Tutorial/KIND.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md",
+                "file": "TECHNO Services/K8 Tutorial/KIND.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md"
+                "file": "TECHNO Services/K8 Tutorial/KIND.md"
               }
             }
           },
@@ -141,12 +141,13 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "TECHNO Services/K8 Tutorial/KIND.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "TECHNO Services/Docker Tutorial/Docker Compose.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
-    "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Prometheus.md",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
@@ -171,7 +172,6 @@
     "ecosystem with nextcloud , Davx5 & KDE CONNECT.md",
     "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
-    "README.md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
