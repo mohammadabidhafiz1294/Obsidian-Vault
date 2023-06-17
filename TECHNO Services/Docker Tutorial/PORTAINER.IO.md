@@ -1,9 +1,12 @@
 ### Introduction
+
 Portainer is an open-source management UI for Docker, Kubernetes, and Swarm. It allows users to manage their containerized applications and infrastructure through an easy-to-use web interface. Portainer supports multiple platforms, including Windows, Linux, and macOS, and can be installed as a standalone container or a Docker-compose stack. The platform provides users with a range of features, including container management, image management, network management, volume management, and user management. It also offers a RESTful API, which allows developers to automate and integrate their container workflows. Portainer is available in both free and paid versions, with the paid version offering additional features and support.
 
 ### Installation
+
 To install Portainer on a Linux Docker Engine, you can use the following steps:
 1. Pull the Portainer image from Docker Hub:
+
  ```
  docker pull portainer/portainer-ce
 ```
@@ -24,7 +27,8 @@ docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /va
 -   `-v portainer_data:/data`: Mount the `portainer_data` volume we created earlier into the container.
 	_NOTE_: Once the Portainer container is running, you can access the Portainer web interface by visiting `http://<your-server-ip>:9000` in a web browser. From there, you can create a new administrator account and start managing your Docker environment.
 
-### portainer-ce vs portainer
+### Portainer-ce Vs Portainer
+
 `portainer-ce` and `portainer` are two different Docker images for Portainer, which provide different versions of the software.
 
 `portainer-ce` is the Community Edition of Portainer, which is an open-source and free version of the software. It provides basic container management features, including container creation, deletion, and deployment. It also includes features like container and image management, user management, and basic resource monitoring.

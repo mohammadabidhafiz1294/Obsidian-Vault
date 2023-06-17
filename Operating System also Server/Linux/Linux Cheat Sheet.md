@@ -35,11 +35,11 @@
  * 2 – write (w)
  * 1 – execute (x)
 	
-	### Examples:
+### Examples:
 	 * chmod 777 – read, write, execute for all
 	 * chmod 755 – rwx for owner, rx for group and world
 
-## SSH: 
+## SSH:
  * ssh user@host – connect to host as user
  * ssh -p port user@host – connect to host on port port as user
  * ssh-copy-id user@host – add your key to host for user to enable a keyed or passwordless login
@@ -89,7 +89,7 @@
  * dpkg - i pkg.deb – install a package (Debian)
  * rpm - Uvh pkg.rpm – install a package (RPM)
 
-## Install from source:
+## Install from Source:
  * ./configure
  * make
  * make install

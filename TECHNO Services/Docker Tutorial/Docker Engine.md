@@ -32,7 +32,7 @@ When you run a Docker container, the Docker client (which includes the Docker CL
 
 The Docker CLI can be used to interact with the Docker daemon to manage containers, images, volumes, and networks. For example, you can use the `` docker run `` command to start a new container, the `` docker build `` command to build a new image, and the `docker stop` command to stop a running container.
 
-### Docker API ( called )
+### Docker API ( Called )
 
 The Docker API provides programmatic access to the Docker daemon, allowing you to automate Docker tasks and integrate Docker with other tools and platforms. Here's a brief tutorial on how to use the Docker API:
 

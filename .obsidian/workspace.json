@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+                "file": "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+                "file": "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md"
+                "file": "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md"
               }
             }
           },
@@ -141,10 +141,12 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
+    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "TECHNO Services/Docker Tutorial/Docker Compose.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
-    "TECHNO Services/K8 Tutorial/Untitled.md",
+    "TECHNO Services/K8 Tutorial/Kubernete Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Prometheus.md",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
@@ -155,7 +157,6 @@
     "Git & GIthub",
     "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
-    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "linux-system-directoies-poster.webp",
     "Servers/Web servers/Website Server Called!.md",
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
@@ -171,7 +172,6 @@
     "3 Y/ELECTRODYNAMICS (PH-301)/Maxwell's Field Equations (CH-1).md",
     "3 Y/ATOMIC & MOLECULAR PHYSICS (PH-303)/Predictable Questions Atomi science.md",
     "README.md",
-    "3 Y/SOLID STATE PYSICS (PH-305)/Crystal Systems (CH-1).md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",

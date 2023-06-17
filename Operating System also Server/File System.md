@@ -206,7 +206,7 @@ According to this table, it's clear that different operating systems respectivel
 
 If you are wondering about more differences between these file systems, click the links here to get more details: [NTFS vs. exFAT vs. FAT32](https://www.easeus.com/partition-master/fat32-exfat-or-ntfs.html), NTFS or FAT32, Best File System for USB
 
-### Which File System Should I Use, NTFS, FAT32, exFAT, or EXT? 
+### Which File System Should I Use, NTFS, FAT32, exFAT, or EXT?
 
 So when do I use NTFS, exFAT, or FAT32? We compared these file system formats together and came out with the listed suggestions for you.
 

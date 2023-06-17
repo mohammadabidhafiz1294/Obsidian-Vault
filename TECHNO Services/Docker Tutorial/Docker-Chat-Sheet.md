@@ -284,7 +284,7 @@ Images are just [templates for docker containers](https://docs.docker.com/engine
 
 While you can use the `docker rmi` command to remove specific images, there's a tool called [docker-gc](https://github.com/spotify/docker-gc) that will safely clean up images that are no longer used by any containers. As of docker 1.13, `docker image prune` is also available for removing unused images. See [Prune](#prune).
 
-### Load/Save image
+### Load/Save Image
 
 Load an image from file:
 
@@ -298,7 +298,7 @@ Save an existing image:
 docker save my_image:my_tag | gzip > my_image.tar.gz
 ```
 
-### Import/Export container
+### Import/Export Container
 
 Import a container as an image from file:
 
@@ -312,7 +312,7 @@ Export an existing container:
 docker export my_container | gzip > my_container.tar.gz
 ```
 
-### Difference between loading a saved image and importing an exported container as an image
+### Difference between Loading a Saved Image and Importing an Exported Container as an Image
 
 Loading an image using the `load` command creates a new image including its history.  
 Importing a container as an image using the `import` command creates a new image excluding the history which results in a smaller image size compared to loading an image.
@@ -363,7 +363,7 @@ Docker.com hosts its own [index](https://hub.docker.com/) to a central registry 
 * [`docker pull`](https://docs.docker.com/engine/reference/commandline/pull) pulls an image from registry to local machine.
 * [`docker push`](https://docs.docker.com/engine/reference/commandline/push) pushes an image to the registry from local machine.
 
-### Run local registry
+### Run Local Registry
 
 You can run a local registry by using the [docker distribution](https://github.com/docker/distribution) project and looking at the [local deploy](https://github.com/docker/docker.github.io/blob/master/registry/deploying.md) instructions.
 
@@ -490,7 +490,7 @@ You may also consider running data-only containers as described [here](http://co
 
 Be aware that you can [mount files as volumes](#volumes-can-be-files).
 
-## Exposing ports
+## Exposing Ports
 
 Exposing incoming ports through the host container is [fiddly but doable](https://docs.docker.com/engine/reference/run/#expose-incoming-ports).
 
@@ -668,7 +668,7 @@ The new [Data Management Commands](https://github.com/docker/docker/pull/26108) 
 * `docker container prune`
 * `docker image prune`
 
-### df
+### Df
 
 `docker system df` presents a summary of the space currently used by different docker objects.
 
@@ -689,13 +689,13 @@ docker run ubuntu echo hello world
 docker commit $(dl) helloworld
 ```
 
-### Commit with command (needs Dockerfile)
+### Commit with Command (needs Dockerfile)
 
 ```sh
 docker commit -run='{"Cmd":["postgres", "-too -many -opts"]}' $(dl) postgres
 ```
 
-### Get IP address
+### Get IP Address
 
 ```sh
 docker inspect $(dl) | grep -wm1 IPAddress | cut -d '"' -f 4
@@ -724,13 +724,13 @@ docker build \
   some-directory/
 ```
 
-### Get port mapping
+### Get Port Mapping
 
 ```sh
 docker inspect -f '{{range $p, $conf := .NetworkSettings.Ports}} {{$p}} -> {{(index $conf 0).HostPort}} {{end}}' <containername>
 ```
 
-### Find containers by regular expression
+### Find Containers by Regular Expression
 
 ```sh
 for i in $(docker ps -a | grep "REGEXP_PATTERN" | cut -f1 -d" "); do echo $i; done
@@ -742,49 +742,49 @@ for i in $(docker ps -a | grep "REGEXP_PATTERN" | cut -f1 -d" "); do echo $i; do
 docker run --rm ubuntu env
 ```
 
-### Kill running containers
+### Kill Running Containers
 
 ```sh
 docker kill $(docker ps -q)
 ```
 
-### Delete all containers (force!! running or stopped containers)
+### Delete All Containers (force!! Running or Stopped containers)
 
 ```sh
 docker rm -f $(docker ps -qa)
 ```
 
-### Delete old containers
+### Delete Old Containers
 
 ```sh
 docker ps -a | grep 'weeks ago' | awk '{print $1}' | xargs docker rm
 ```
 
-### Delete stopped containers
+### Delete Stopped Containers
 
 ```sh
 docker rm -v $(docker ps -a -q -f status=exited)
 ```
 
-### Delete containers after stopping
+### Delete Containers after Stopping
 
 ```sh
 docker stop $(docker ps -aq) && docker rm -v $(docker ps -aq)
 ```
 
-### Delete dangling images
+### Delete Dangling Images
 
 ```sh
 docker rmi $(docker images -q -f dangling=true)
 ```
 
-### Delete all images
+### Delete All Images
 
 ```sh
 docker rmi $(docker images -q)
 ```
 
-### Delete dangling volumes
+### Delete Dangling Volumes
 
 As of Docker 1.9:
 
@@ -794,13 +794,13 @@ docker volume rm $(docker volume ls -q -f dangling=true)
 
 In 1.9.0, the filter `dangling=false` does _not_ work - it is ignored and will list all volumes.
 
-### Show image dependencies
+### Show Image Dependencies
 
 ```sh
 docker images -viz | dot -Tpng -o docker.png
 ```
 
-### Slimming down Docker containers
+### Slimming down Docker Containers
 
 - Cleaning APT in a `RUN` layer - This should be done in the same layer as other `apt` commands. Otherwise, the previous layers still persist the original information and your images will still be fat.
     ```Dockerfile
@@ -820,7 +820,7 @@ docker images -viz | dot -Tpng -o docker.png
     gzip -dc image.tgz | docker import - flat-image-name
     ```
 
-### Monitor system resource utilization for running containers
+### Monitor System Resource Utilization for Running Containers
 
 To check the CPU, memory, and network I/O usage of a single container, you can use:
 
@@ -864,7 +864,7 @@ Remove all exited containers:
 docker rm -f $(docker ps -a | grep Exit | awk '{ print $1 }')
 ```
 
-### Volumes can be files
+### Volumes Can Be Files
 
 Be aware that you can mount files as volumes. For example you can inject a configuration file like this:
 

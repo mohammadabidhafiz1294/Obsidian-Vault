@@ -1,5 +1,5 @@
 
-# Somes docker commands
+# Somes Docker Commands
 
 - [[Container]] runs inside the bash shell of the container:
 ```

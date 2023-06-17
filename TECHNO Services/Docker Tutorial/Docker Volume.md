@@ -18,7 +18,7 @@ docker run
 
 command with the ***-v*** option, which creates a new anonymous volume that is deleted when the container is deleted.
 
-### Docker volume list CMD
+### Docker Volume List CMD
 - To list the Docker volumes on your system, you can use the ***docker volume ls*** command. This command will display a list of all the volumes that are currently available on your Docker host.
 
   Output list like:
@@ -29,7 +29,7 @@ local               myapp_data
 local               postgres_data
 ```
 
-### Docker volume inspect
+### Docker Volume Inspect
 You can also use the `docker volume inspect` command to get more detailed information about a specific volume, such as its mount point and other configuration options:
 
 ```
