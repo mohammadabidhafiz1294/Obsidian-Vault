@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Short Key Notes.md",
+                "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short Key Notes.md",
+                "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short Key Notes.md"
+                "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md"
               }
             }
           },
@@ -141,8 +141,13 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/K8s VS K3s.md",
+    "TECHNO Services/K8 Tutorial/Untitled.md",
+    "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
+    "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "Pasted image 20230618001526.png",
+    "Short Key Notes.md",
+    "TECHNO Services/K8 Tutorial/K8s VS K3s.md",
     "TECHNO Services/K8 Tutorial/KIND.md",
     "TECHNO Services/K8 Tutorial/RANCHER.md",
     "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
@@ -152,7 +157,6 @@
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "TECHNO Services/Docker Tutorial/Docker Engine.md",
     "TECHNO Services/Docker Tutorial/Docker Volume.md",
-    "Pasted image 20230618001526.png",
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
@@ -170,9 +174,6 @@
     "Git & GIthub",
     "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "linux-system-directoies-poster.webp",
-    "Servers/Web servers/Website Server Called!.md",
-    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
-    "Short Key Notes.md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
