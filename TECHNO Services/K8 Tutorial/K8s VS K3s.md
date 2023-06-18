@@ -24,6 +24,6 @@ Kubernetes (K8s) and K3s are both container orchestration platforms, but they di
 6. Use Cases:
     
     - Kubernetes (K8s): K8s is well-suited for large-scale deployments, enterprise applications, and complex environments with high scalability and availability requirements. It is commonly used in production environments where a wide range of features and integrations are needed.
-    - K3s: K3s is ideal for resource-constrained environments, edge computing scenarios, IoT devices, development, testing, and learning Kubernetes. It is also suitable for scenarios where a lightweight and simplified version of Kubernetes is preferred.
+    - K3s: K3s is ideal for resource-constrained environments, #edge-computing scenarios, IoT devices, development, testing, and learning Kubernetes. It is also suitable for scenarios where a lightweight and simplified version of Kubernetes is preferred.
 
 In summary, Kubernetes (K8s) is a robust and feature-rich container orchestration platform suitable for complex and large-scale deployments. On the other hand, K3s provides a lightweight, simplified version of Kubernetes with a smaller footprint, making it easier to install and manage, especially in resource-constrained environments or for edge computing use cases.
