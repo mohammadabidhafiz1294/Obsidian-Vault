@@ -11,8 +11,13 @@
             "id": "fb665a47372be35a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Operating System also Server/Linux/Linux ECO-systems Tools.md"
+          }
         }
       },
       {
@@ -133,12 +142,43 @@
   },
   "active": "fb665a47372be35a",
   "lastOpenFiles": [
-    "Short Key Notes.md",
-    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
-    "/Short Key Notes.md",
-    "/Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
-    "Operating System also Server/File System vs Volume Manager.md",
-    "/Operating System also Server/File System.md",
-    "/Operating System also Server/File System vs Volume Manager.md"
+    "TECHNO Services/Docker Tutorial/Prometheus.md",
+    "TECHNO Services/Docker Tutorial/Container.md",
+    "Servers/Web servers/Website Server Called!.md",
+    "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
+    "TECHNO Services/K8 Tutorial/RANCHER.md",
+    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "TECHNO Services/K8 Tutorial/KIND.md",
+    "TECHNO Services/K8 Tutorial/K8s VS K3S.md",
+    "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
+    "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
+    "TECHNO Services/Docker Tutorial/Docker commands.md",
+    "TECHNO Services/Docker Tutorial/Docker Volume.md",
+    "TECHNO Services/Docker Tutorial/Docker Structure.md",
+    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
+    "TECHNO Services/Docker Tutorial/Docker Engine.md",
+    "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
+    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
+    "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
+    "Pasted image 20230618001526.png",
+    "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
+    "Operating System also Server/Linux/Linux Desktop Environment.md",
+    "Git & GIthub/Github Actions.md",
+    "/TECHNO Services/Docker Tutorial/Prometheus.md",
+    "/TECHNO Services/Docker Tutorial/Container.md",
+    "/Servers/Web servers/Website Server Called!.md",
+    "/README.md",
+    "/TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
+    "/Pasted image 20230618001526.png",
+    "TECHNO Services/K8 Tutorial",
+    "TECHNO Services/Docker Tutorial",
+    "TECHNO Services",
+    "Servers/Web servers",
+    "Servers",
+    "Operating System also Server/Linux/UBUNTU",
+    "Git & GIthub",
+    "/TECHNO Services/K8 Tutorial",
+    "/TECHNO Services/Docker Tutorial",
+    "/TECHNO Services"
   ]
 }
