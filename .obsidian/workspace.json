@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/Docker Structure.md",
+                "file": "TECHNO Services/K8 Tutorial/RANCHER.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/Docker Structure.md",
+                "file": "TECHNO Services/K8 Tutorial/RANCHER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/Docker Structure.md"
+                "file": "TECHNO Services/K8 Tutorial/RANCHER.md"
               }
             }
           },
@@ -141,8 +141,10 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
-    "TECHNO Services/Docker Tutorial/Container.md",
+    "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
+    "TECHNO Services/K8 Tutorial/RANCHER.md",
     "TECHNO Services/Docker Tutorial/Docker Structure.md",
+    "TECHNO Services/Docker Tutorial/Container.md",
     "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
     "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
     "TECHNO Services/Docker Tutorial/Docker Engine.md",
@@ -171,8 +173,6 @@
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
     "Short Key Notes.md",
     "Operating System also Server/File System vs Volume Manager.md",
-    "Operating System also Server/File System.md",
-    "Operating System also Server/File System Implemetation.md",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
