@@ -127,7 +127,6 @@
 |Customize resource definition|`kubectl set resources deployment nginx -c=nginx --limits=memory=512Mi`|
 |Reference|[Link: kubernetes yaml templates](https://cheatsheet.dennyzhang.com/kubernetes-yaml-templates)|
 
-## [](https://github.com/dennyzhang/cheatsheet-kubernetes-A4#19-service)
 
 ## 1.9 Service
 
@@ -142,7 +141,6 @@
 |Expose service as lb service|`kubectl expose service/wordpress-1-svc --type=LoadBalancer --name=ns1`|
 |Reference|[Link: kubernetes yaml templates](https://cheatsheet.dennyzhang.com/kubernetes-yaml-templates)|
 
-## [](https://github.com/dennyzhang/cheatsheet-kubernetes-A4#110-secrets)
 
 ## 1.10 Secrets
 
