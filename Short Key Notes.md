@@ -18,3 +18,8 @@ Edge computing refers to a distributed computing model where data processing and
 
 *conclusion:*
  	Edge computing is applicable in various industries and use cases, including smart cities, industrial IoT, healthcare, retail, autonomous vehicles, and more. By bringing computing capabilities closer to where data is generated, edge computing enables faster and more efficient processing, enabling real-time decision-making and enabling new applications and services.
+
+
+### #orchestration :
+
+ Orchestration is **the automated configuration, management, and coordination of computer systems, applications, and services**. Orchestration helps IT to more easily manage complex tasks and workflows.

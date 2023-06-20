@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Short Key Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Short Key Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md"
+                "file": "Short Key Notes.md"
               }
             }
           },
@@ -141,8 +141,9 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "TECHNO Services/K8 Tutorial/Kubernetes.md",
+    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
     "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
-    "TECHNO Services/K8 Tutorial/Untitled.md",
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
     "Pasted image 20230618001526.png",
@@ -172,7 +173,6 @@
     "Operating System also Server/Linux/UBUNTU",
     "Operating System also Server/Linux/Linux Cheat Sheet.md",
     "Git & GIthub",
-    "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "linux-system-directoies-poster.webp",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
