@@ -25,4 +25,4 @@ Rancher and Portainer are both popular container management platforms, but they 
     
     - Portainer: Portainer provides limited extensibility options compared to Rancher. It primarily focuses on core container management functionality and doesn't offer a plugin ecosystem like Rancher.
 
-In summary, Rancher is a more comprehensive and feature-rich container management platform suitable for complex environments and Kubernetes management, while Portainer is a lightweight solution that is easier to set up and manage but lacks some of the advanced features of Rancher. Your choice between Rancher and Portainer depends on your specific requirements and the complexity of your container environment.
+> In summary, Rancher is a more comprehensive and feature-rich container management platform suitable for complex environments and Kubernetes management, while Portainer is a lightweight solution that is easier to set up and manage but lacks some of the advanced features of Rancher. Your choice between Rancher and Portainer depends on your specific requirements and the complexity of your container environment.
