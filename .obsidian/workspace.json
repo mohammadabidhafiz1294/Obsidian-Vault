@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Short Key Notes.md",
+                "file": "TECHNO Services/K8 Tutorial/Kubernetes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short Key Notes.md",
+                "file": "TECHNO Services/K8 Tutorial/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short Key Notes.md"
+                "file": "TECHNO Services/K8 Tutorial/Kubernetes.md"
               }
             }
           },
@@ -141,13 +141,13 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "Short Key Notes.md",
     "TECHNO Services/K8 Tutorial/Kubernetes.md",
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
     "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
     "Pasted image 20230618001526.png",
-    "Short Key Notes.md",
     "TECHNO Services/K8 Tutorial/K8s VS K3s.md",
     "TECHNO Services/K8 Tutorial/KIND.md",
     "TECHNO Services/K8 Tutorial/RANCHER.md",

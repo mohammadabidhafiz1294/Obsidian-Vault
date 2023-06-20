@@ -23,3 +23,5 @@ Edge computing refers to a distributed computing model where data processing and
 ### #orchestration :
 
  Orchestration is **the automated configuration, management, and coordination of computer systems, applications, and services**. Orchestration helps IT to more easily manage complex tasks and workflows.
+
+  service orchestration is **the process of integrating two or more applications and/or services together to automate a process, or synchronize data in real-time**.
