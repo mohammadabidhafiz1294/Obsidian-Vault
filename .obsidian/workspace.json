@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations.md",
+                "file": "TECHNO Services/K8 Tutorial/CLUSTER.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations.md",
+                "file": "TECHNO Services/K8 Tutorial/CLUSTER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations.md"
+                "file": "TECHNO Services/K8 Tutorial/CLUSTER.md"
               }
             }
           },
@@ -141,11 +141,12 @@
   },
   "active": "355ad463adab865a",
   "lastOpenFiles": [
+    "Short Key Notes.md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
     "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
-    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations.md",
     "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
     "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
-    "Short Key Notes.md",
     "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
@@ -170,7 +171,6 @@
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
     "Operating System also Server/Linux/Linux Desktop Environment.md",
-    "Git & GIthub/Github Actions.md",
     "Operating System also Server/Linux/UBUNTU",
     "Git & GIthub",
     "linux-system-directoies-poster.webp",

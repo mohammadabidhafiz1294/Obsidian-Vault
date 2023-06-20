@@ -25,3 +25,45 @@ Edge computing refers to a distributed computing model where data processing and
  Orchestration is **the automated configuration, management, and coordination of computer systems, applications, and services**. Orchestration helps IT to more easily manage complex tasks and workflows.
 
   service orchestration is **the process of integrating two or more applications and/or services together to automate a process, or synchronize data in real-time**.
+
+
+### #HPC-cluster :
+
+ An HPC (High-Performance Computing) cluster is a distributed computing system specifically designed to deliver high computational power for running computationally intensive and data-intensive applications. HPC clusters are typically used in scientific research, engineering simulations, data analysis, and other fields that require massive computing resources. 
+Here are the key components and characteristics of an HPC cluster:
+
+1. Compute Nodes:
+    
+    - Compute nodes are the individual machines that perform the computational tasks in the cluster.
+    - Each compute node typically consists of multiple CPUs or processor cores, high-speed memory (RAM), and storage.
+2. Network Interconnect:
+    
+    - HPC clusters require a high-speed and low-latency network interconnect to facilitate efficient communication between compute nodes.
+    - Common interconnect technologies used in HPC clusters include InfiniBand, Ethernet with RDMA (Remote Direct Memory Access), or specialized high-speed networks like Cray's Aries.
+3. Job Scheduler:
+    
+    - HPC clusters employ a job scheduler to manage and allocate computing resources to different users and applications.
+    - The job scheduler receives job submissions, queues them, and assigns them to available compute nodes based on predefined policies and priorities.
+    - Popular job schedulers in the HPC world include Slurm, PBS, and LSF.
+4. Parallel Programming Models:
+    
+    - HPC clusters often use parallel programming models to divide the workload among multiple compute nodes and processors, enabling parallel execution and efficient resource utilization.
+    - Common parallel programming models include Message Passing Interface (MPI) for distributed-memory parallelism and OpenMP for shared-memory parallelism.
+5. Storage:
+    
+    - HPC clusters require high-performance storage systems to handle the large amount of data generated and accessed by applications.
+    - Parallel file systems, such as Lustre or GPFS, are commonly used to provide scalable and high-bandwidth storage.
+    - Additionally, HPC clusters may have local storage attached to each compute node for temporary or local data storage.
+6. Cluster Management Software:
+    
+    - HPC clusters often utilize cluster management software to simplify the administration, monitoring, and maintenance of the cluster.
+    - These tools provide features such as node provisioning, software installation, monitoring of cluster health and performance, and system resource management.
+7. Software Libraries and Tools:
+    
+    - HPC clusters typically provide a wide range of software libraries, compilers, and tools to support scientific computing and development of parallel applications.
+    - These may include numerical libraries (e.g., BLAS, LAPACK), parallel programming frameworks (e.g., MPI), and development tools (e.g., profiling and debugging tools).
+8. Power and Cooling:
+    
+    - HPC clusters consume substantial power and generate heat due to the intensive computational workloads. Therefore, robust power and cooling infrastructure are required to maintain stable and efficient cluster operation.
+
+> HPC clusters are designed to achieve high performance, scalability, and efficiency for demanding computational workloads. They offer massive computational power by aggregating resources across multiple compute nodes and employing parallel processing techniques.
