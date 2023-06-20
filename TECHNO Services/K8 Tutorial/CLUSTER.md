@@ -1,4 +1,5 @@
-In the context of computing, A cluster refers to a group of interconnected computers or servers that work together to perform a common task or provide a unified computing resource. Clusters are used to achieve higher performance, scalability, reliability, and availability by distributing the workload across multiple nodes. There are various types of clusters, including:
+In the context of computing, A cluster refers to ***a group of interconnected computers or servers that work together to perform a common task or provide a unified computing resource***. Clusters are used to achieve higher performance, scalability, reliability, and availability by distributing the workload across multiple nodes. 
+There are various types of clusters, including:
 
 1. High-Performance Computing ( #HPC-cluster ) Cluster:
     
@@ -26,4 +27,4 @@ In the context of computing, A cluster refers to a group of interconnected compu
     - High-density computing clusters focus on maximizing computing power within a limited physical space.
     - These clusters often involve specialized hardware configurations, such as blade servers or dense compute nodes, to achieve high computational density.
 
-These are just a few examples of cluster types, and there can be variations and combinations depending on specific requirements and use cases. Clusters are widely used in various fields to harness the power of distributed computing and provide scalable and resilient computing resources.
+> These are just a few examples of cluster types, and there can be variations and combinations depending on specific requirements and use cases. Clusters are widely used in various fields to harness the power of distributed computing and provide scalable and resilient computing resources.
