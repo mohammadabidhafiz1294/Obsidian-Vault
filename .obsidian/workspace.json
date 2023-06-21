@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
+                "file": "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
+                "file": "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md"
+                "file": "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md"
               }
             }
           },
@@ -141,9 +141,24 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/EFK stack.md",
-    "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
+    "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
+    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
+    "TECHNO Services/K8 Tutorial/K8s Architecture.md",
+    "TECHNO Services/K8 Tutorial/K8s Structure.md",
+    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
+    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
     "TECHNO Services/K8 Tutorial/setup for Elasticsearch, Fluentd, and Kibana.md",
+    "TECHNO Services/K8 Tutorial/RANCHER.md",
+    "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
+    "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
+    "TECHNO Services/K8 Tutorial/EFK stack.md",
+    "TECHNO Services/K8 Tutorial/K8s VS K3s.md",
+    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
+    "TECHNO Services/K8 Tutorial/KIND.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
     "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
@@ -152,26 +167,11 @@
     "TECHNO Services/Docker Tutorial/Docker Structure.md",
     "TECHNO Services/Docker Tutorial/Docker Engine.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
-    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
-    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
-    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
-    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
-    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
-    "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
-    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
-    "TECHNO Services/K8 Tutorial/K8s Structure.md",
     "Pasted image 20230620185845.png",
-    "Operating System also Server/File System.md",
-    "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
-    "TECHNO Services/K8 Tutorial/RANCHER.md",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
     "Operating System also Server/linux system structure.jpg",
-    "Operating System also Server/File System vs Volume Manager.md",
-    "Operating System also Server/File System Implemetation.md",
     "Operating System also Server/linux system structure 2.png",
-    "TECHNO Services/K8 Tutorial/KIND.md",
-    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
