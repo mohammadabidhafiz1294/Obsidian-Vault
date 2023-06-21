@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
+                "file": "TECHNO Services/K8 Tutorial/K8s Configuration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
+                "file": "TECHNO Services/K8 Tutorial/K8s Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md"
+                "file": "TECHNO Services/K8 Tutorial/K8s Configuration.md"
               }
             }
           },
@@ -139,15 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4268f5021e97a559",
+  "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
+    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
     "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
     "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
+    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
     "TECHNO Services/K8 Tutorial/K8s Structure.md",
     "Pasted image 20230620185845.png",
     "Operating System also Server/File System.md",
-    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
     "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
     "TECHNO Services/K8 Tutorial/RANCHER.md",
     "Pasted image 20230618001526.png",
@@ -171,7 +173,6 @@
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
-    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
     "Operating System also Server/Linux/UBUNTU",
