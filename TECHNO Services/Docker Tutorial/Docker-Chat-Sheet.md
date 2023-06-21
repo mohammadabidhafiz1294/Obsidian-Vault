@@ -10,7 +10,7 @@
 * [Containers](#containers)
 * [Images](#images)
 * [Networks](#networks)
-* [Registry and Repository](#registry--repository)
+* [Registry and Repository](#registry-and-repository)
 * [Dockerfile](#dockerfile)
 * [Layers](#layers)
 * [Links](#links)

@@ -1,4 +1,3 @@
-
 ### IMAGE ![Docker Architecture diagram|800](https://docs.docker.com/assets/images/architecture.svg)
 ### The Docker daemon[](https://docs.docker.com/get-started/overview/#the-docker-daemon)
 

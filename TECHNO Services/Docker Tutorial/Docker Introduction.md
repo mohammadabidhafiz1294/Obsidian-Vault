@@ -141,8 +141,11 @@ A more detailed tutorial on how to use docker-replay can be found [here](https:/
 ### Restore Container from Backup
 Restore the volume with a tarball archive.
 `docker run --rm --volumes-from CONTAINER -v $(pwd):/backup busybox sh -c "cd CONTAINERPATH && tar xvf /backup/backup.tar --strip 1"`
+
 ## Networks
+
 
 ## Troubleshooting
 ### Networking
+
 `docker run --name netshoot --rm -it nicolaka/netshoot /bin/bash`
