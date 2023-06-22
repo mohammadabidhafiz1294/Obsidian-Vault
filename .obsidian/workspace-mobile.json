@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/KIND.md",
+                "file": "TECHNO Services/K8 Tutorial/CLUSTER.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TECHNO Services/K8 Tutorial/KIND.md",
+            "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TECHNO Services/K8 Tutorial/KIND.md",
+            "file": "TECHNO Services/K8 Tutorial/CLUSTER.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TECHNO Services/K8 Tutorial/KIND.md"
+            "file": "TECHNO Services/K8 Tutorial/CLUSTER.md"
           }
         }
       },
@@ -135,40 +135,43 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb665a47372be35a",
+  "active": "f0a9e4f7c6576dca",
   "lastOpenFiles": [
-    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
-    "TECHNO Services/Docker Tutorial/Prometheus.md",
-    "TECHNO Services/Docker Tutorial/Container.md",
-    "Servers/Web servers/Website Server Called!.md",
-    "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
-    "TECHNO Services/K8 Tutorial/RANCHER.md",
-    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
-    "TECHNO Services/K8 Tutorial/KIND.md",
-    "TECHNO Services/K8 Tutorial/K8s VS K3S.md",
-    "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
-    "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
-    "TECHNO Services/Docker Tutorial/Docker commands.md",
-    "TECHNO Services/Docker Tutorial/Docker Volume.md",
-    "TECHNO Services/Docker Tutorial/Docker Structure.md",
-    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
-    "TECHNO Services/Docker Tutorial/Docker Engine.md",
-    "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
-    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
-    "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
+    "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
+    "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
+    "/TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
+    "TECHNO Services/K8 Tutorial/setup for Elasticsearch, Fluentd, and Kibana.md",
+    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
+    "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
+    "TECHNO Services/K8 Tutorial/MicroK8s.md",
+    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
+    "TECHNO Services/K8 Tutorial/Lightweight Kubernetes.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
+    "TECHNO Services/K8 Tutorial/K8s Architecture.md",
+    "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
+    "TECHNO Services/K8 Tutorial/EFK stack.md",
+    "Pasted image 20230620185845.png",
+    "/TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
+    "/TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
+    "/TECHNO Services/K8 Tutorial/CLUSTER.md",
+    "/Short Key Notes.md",
+    "/TECHNO Services/K8 Tutorial/setup for Elasticsearch, Fluentd, and Kibana.md",
+    "/TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
+    "/TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
+    "/TECHNO Services/K8 Tutorial/RANCHER.md",
+    "/TECHNO Services/K8 Tutorial/MicroK8s.md",
+    "/TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
+    "/Pasted image 20230620185845.png",
+    "Pasted image 20230618205830.png",
+    "/Pasted image 20230618205830.png",
     "Pasted image 20230618001526.png",
-    "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
-    "Operating System also Server/Linux/Linux Desktop Environment.md",
-    "Git & GIthub/Github Actions.md",
-    "/TECHNO Services/Docker Tutorial/Prometheus.md",
-    "/TECHNO Services/Docker Tutorial/Container.md",
-    "/Servers/Web servers/Website Server Called!.md",
-    "/README.md",
     "/Pasted image 20230618001526.png",
     "TECHNO Services/K8 Tutorial",
     "TECHNO Services/Docker Tutorial",
