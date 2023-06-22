@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
+                "file": "TECHNO Services/K8 Tutorial/MicroK8s.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
+                "file": "TECHNO Services/K8 Tutorial/MicroK8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md"
+                "file": "TECHNO Services/K8 Tutorial/MicroK8s.md"
               }
             }
           },
@@ -141,8 +141,9 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
+    "TECHNO Services/K8 Tutorial/MicroK8s.md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "TECHNO Services/K8 Tutorial/K8s VS K3s.md",
     "TECHNO Services/K8 Tutorial/Lightweight Kubernetes.md",
     "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
@@ -166,7 +167,6 @@
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
     "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
-    "TECHNO Services/Docker Tutorial/Docker Structure.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
