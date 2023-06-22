@@ -23,4 +23,4 @@ To install Rancher on an Ubuntu server, you can follow these steps:
     
 6. Set up Rancher: When you access Rancher for the first time, you'll be guided through the initial setup process. Follow the on-screen instructions to set up an admin password and configure Rancher.
 
-That's it! You should now have Rancher installed and ready to use on your Ubuntu server. Remember to ensure that your server meets the minimum system requirements for running Rancher. For more detailed information and advanced configuration options, refer to the Rancher documentation ([https://rancher.com/docs/](https://rancher.com/docs/)).
+That's it! You should now have Rancher installed and ready to use on your Ubuntu server. Remember to ensure that your server meets the minimum system requirements for running Rancher. For more detailed information and advanced configuration options, refer to the Rancher documentation [kownledge](https://rancher.com/docs/](https://rancher.com/docs/).

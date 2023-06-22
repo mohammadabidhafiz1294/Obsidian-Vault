@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9912cedff6778c9",
+        "id": "98843244fff34620",
         "type": "tabs",
         "children": [
           {
-            "id": "355ad463adab865a",
+            "id": "471c52ca0abce26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
+                "file": "TECHNO Services/K8 Tutorial/MicroK8s.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
+                "file": "TECHNO Services/K8 Tutorial/MicroK8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md"
+                "file": "TECHNO Services/K8 Tutorial/MicroK8s.md"
               }
             }
           },
@@ -139,40 +139,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "355ad463adab865a",
+  "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "TECHNO Services/K8 Tutorial/Untitled.md",
-    "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
-    "Pasted image 20230618205830.png",
-    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
-    "Pasted image 20230618001526.png",
-    "Short Key Notes.md",
+    "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
+    "TECHNO Services/K8 Tutorial/MicroK8s.md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "TECHNO Services/K8 Tutorial/K8s VS K3s.md",
-    "TECHNO Services/K8 Tutorial/KIND.md",
+    "TECHNO Services/K8 Tutorial/Lightweight Kubernetes.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
+    "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
+    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
+    "TECHNO Services/K8 Tutorial/K8s Architecture.md",
+    "TECHNO Services/K8 Tutorial/K8s Structure.md",
+    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
+    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
+    "TECHNO Services/K8 Tutorial/setup for Elasticsearch, Fluentd, and Kibana.md",
     "TECHNO Services/K8 Tutorial/RANCHER.md",
+    "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
     "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
-    "TECHNO Services/Docker Tutorial/Docker Structure.md",
-    "TECHNO Services/Docker Tutorial/Container.md",
-    "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
-    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
-    "TECHNO Services/Docker Tutorial/Docker Engine.md",
-    "TECHNO Services/Docker Tutorial/Docker Volume.md",
-    "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
-    "TECHNO Services/Docker Tutorial/Docker commands.md",
-    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
-    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
+    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
+    "TECHNO Services/K8 Tutorial/EFK stack.md",
+    "TECHNO Services/K8 Tutorial/KUBERNETES CHAT-SHEET.md",
+    "TECHNO Services/K8 Tutorial/KIND.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
-    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
-    "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
-    "TECHNO Services/Docker Tutorial/Prometheus.md",
+    "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
+    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
+    "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
+    "TECHNO Services/Docker Tutorial/DOCKER SOCKET.md",
+    "Pasted image 20230620185845.png",
+    "Pasted image 20230618001526.png",
+    "Operating System also Server/Pasted linux file system structure.png.png",
+    "Operating System also Server/linux system structure.jpg",
+    "Operating System also Server/linux system structure 2.png",
+    "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
-    "Operating System also Server/Linux/Linux Desktop Environment.md",
-    "Git & GIthub/Github Actions.md",
     "Operating System also Server/Linux/UBUNTU",
-    "Operating System also Server/Linux/Linux Cheat Sheet.md",
     "Git & GIthub",
-    "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "linux-system-directoies-poster.webp",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
@@ -183,7 +187,6 @@
     "QUANTUM MECHANICS (PH-302)",
     "linux system structure.jpg",
     "linux system structure 2.png",
-    "Pasted linux file system structure.png.png",
-    "Pasted image 20230511101702.png"
+    "Pasted linux file system structure.png.png"
   ]
 }
