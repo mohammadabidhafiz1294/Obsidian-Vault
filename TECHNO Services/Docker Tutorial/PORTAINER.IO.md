@@ -38,3 +38,42 @@ docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /va
 When you run `docker pull portainer/portainer-ce`, you are pulling the latest version of the Community Edition of Portainer from the official Docker Hub repository. When you run `docker pull portainer/enterprise`, you are pulling the latest version of the Enterprise Edition of Portainer from the same repository.
 
 Both `portainer-ce` and `portainer/` can be used to deploy and manage Portainer on Docker, but they provide different feature sets and support different versions of the software. You should choose the appropriate image based on your specific needs and requirements.
+
+
+## Uninstall
+
+To uninstall Portainer from an Ubuntu server, you can follow these steps:
+
+1. Stop the Portainer container:
+    
+    Use the `docker stop` command followed by the container name or ID to stop the Portainer container. For example:
+    
+   
+    `docker stop portainer`
+    
+2. Remove the Portainer container:
+    
+    Use the `docker rm` command followed by the container name or ID to remove the Portainer container. For example:
+    
+	 `docker rm portainer`
+    
+3. Remove the Portainer image:
+    
+    Use the `docker rmi` command followed by the image name or ID to remove the Portainer image. For example:
+    
+	`docker rmi portainer/portainer-ce`
+    
+    If you pulled a specific version of the Portainer image, specify the version tag along with the image name, like `portainer/portainer-ce:tag`.
+    
+4. Remove the Portainer data volume (optional):
+    
+    If you created a data volume specifically for Portainer, you can remove it using the `docker volume rm` command followed by the volume name. For example:
+	
+	 `docker volume rm portainer_data`
+    
+5. Verify the removal (optional):
+    
+    You can use the `docker ps -a` command to list all containers and verify that the Portainer container has been removed. Similarly, you can use the `docker images` command to verify that the Portainer image has been removed.
+    
+
+By following these steps, you should be able to successfully uninstall Portainer from your Ubuntu server.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/Web servers/Intro WEB Server.md",
+                "file": "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/Web servers/Intro WEB Server.md",
+                "file": "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/Web servers/Intro WEB Server.md"
+                "file": "TECHNO Services/Docker Tutorial/PORTAINER.IO.md"
               }
             }
           },
@@ -141,6 +141,7 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "Servers/Web servers/Intro WEB Server.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
     "TECHNO Services/Docker Tutorial/Container.md",
@@ -166,7 +167,6 @@
     "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
     "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
     "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
-    "TECHNO Services/K8 Tutorial/EFK stack.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
