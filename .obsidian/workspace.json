@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trusted.jpg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/PORTAINER.IO.md"
+                "file": "Operating System also Server/Linux/Linux Desktop Environment.md"
               }
             }
           },
@@ -139,10 +140,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "471c52ca0abce26d",
+  "active": "8d64b8acec15b925",
   "lastOpenFiles": [
-    "Servers/Web servers/Intro WEB Server.md",
+    "Operating System also Server/Linux/Linux Variable grep command.md",
+    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
+    "Operating System also Server/Linux/Linux File System Implemetation.md",
+    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
+    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
+    "Operating System also Server/Linux/Linux Desktop Environment.md",
+    "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
+    "Operating System also Server/Linux/Linux Cheat Sheet.md",
+    "Git & GIthub/Github Actions.md",
+    "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
+    "Servers/Web servers/Intro WEB Server.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
     "TECHNO Services/Docker Tutorial/Container.md",
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
@@ -157,16 +168,6 @@
     "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
     "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
     "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
-    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
-    "TECHNO Services/K8 Tutorial/K8s Architecture.md",
-    "TECHNO Services/K8 Tutorial/K8s Structure.md",
-    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
-    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
-    "TECHNO Services/K8 Tutorial/setup for Elasticsearch, Fluentd, and Kibana.md",
-    "TECHNO Services/K8 Tutorial/RANCHER.md",
-    "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
-    "TECHNO Services/K8 Tutorial/Rancher vs Portainer.md",
-    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
