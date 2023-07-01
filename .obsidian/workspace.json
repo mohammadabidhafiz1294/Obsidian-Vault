@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/Reverse Proxy Server/IF port forwarding disable.md",
+                "file": "Networking/Port Forwarding vs triggering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/Reverse Proxy Server/IF port forwarding disable.md",
+                "file": "Networking/Port Forwarding vs triggering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/Reverse Proxy Server/IF port forwarding disable.md"
+                "file": "Networking/Port Forwarding vs triggering.md"
               }
             }
           },
@@ -141,12 +141,21 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "Networking/T.C.P. vs U.D.P..md",
+    "Servers/Reverse Proxy Server/Traefik.md",
     "Servers/Reverse Proxy Server/IF port forwarding disable.md",
+    "Servers/Web servers/Intro WEB Server.md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
+    "TECHNO Services/K8 Tutorial/EFK stack.md",
+    "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
+    "TECHNO Services/K8 Tutorial/K8s Architecture.md",
+    "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
+    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
+    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
+    "Networking/Port Forwarding vs triggering.md",
+    "Networking/T.C.P. vs U.D.P..md",
     "Networking/T.C.P. (Transmission Control Protocol).md",
     "Untitled.md",
     "Networking",
-    "Servers/Reverse Proxy Server/Traefik.md",
     "Servers/Reverse Proxy Server",
     "Operating System also Server/Linux/Linux Variable grep command.md",
     "Operating System also Server/Linux/Linux Desktop Environment.md",
@@ -159,16 +168,7 @@
     "Git & GIthub/Github Actions.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
-    "Servers/Web servers/Intro WEB Server.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
-    "TECHNO Services/Docker Tutorial/Container.md",
-    "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
-    "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
-    "TECHNO Services/Docker Tutorial/Docker commands.md",
-    "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
-    "TECHNO Services/K8 Tutorial/MicroK8s.md",
-    "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
-    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
