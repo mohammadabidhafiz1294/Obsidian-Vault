@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Port Forwarding vs triggering.md",
+                "file": "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Port Forwarding vs triggering.md",
+                "file": "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Port Forwarding vs triggering.md"
+                "file": "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md"
               }
             }
           },
@@ -142,6 +142,8 @@
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
     "Servers/Reverse Proxy Server/Traefik.md",
+    "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
+    "Networking/Port Forwarding vs triggering.md",
     "Servers/Reverse Proxy Server/IF port forwarding disable.md",
     "Servers/Web servers/Intro WEB Server.md",
     "TECHNO Services/K8 Tutorial/CLUSTER.md",
@@ -151,7 +153,6 @@
     "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
     "TECHNO Services/K8 Tutorial/K8s Configuration.md",
     "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
-    "Networking/Port Forwarding vs triggering.md",
     "Networking/T.C.P. vs U.D.P..md",
     "Networking/T.C.P. (Transmission Control Protocol).md",
     "Untitled.md",
@@ -168,7 +169,6 @@
     "Git & GIthub/Github Actions.md",
     "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
-    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
