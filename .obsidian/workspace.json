@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Short Key Notes.md",
+                "file": "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short Key Notes.md",
+                "file": "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short Key Notes.md"
+                "file": "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md"
               }
             }
           },
@@ -141,6 +141,9 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "TECHNO Services/Docker Tutorial/Docker Structure.md",
+    "TECHNO Services/Docker Tutorial/Docker Volume.md",
+    "Short Key Notes.md",
     "Servers/Monitorings & management/Heimdall.md",
     "Operating Systems/MacOS",
     "Networking/Port Networking.md",
@@ -169,8 +172,6 @@
     "Operating Systems/Linux/Linux Variable grep command.md",
     "Operating Systems/Linux/Linux Desktop Environment.md",
     "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
-    "Operating Systems/Linux/Linux File System Implemetation.md",
-    "Operating Systems/Linux/Linux File Hierarchy Structure.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating Systems/Pasted linux file system structure.png.png",
