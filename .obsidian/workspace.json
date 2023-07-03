@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/Monitorings & management/Heimdall.md",
+                "file": "Short Key Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/Monitorings & management/Heimdall.md",
+                "file": "Short Key Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/Monitorings & management/Heimdall.md"
+                "file": "Short Key Notes.md"
               }
             }
           },
@@ -139,11 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4268f5021e97a559",
+  "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "Servers/Monitorings & management/Heimdall.md",
     "Operating Systems/MacOS",
     "Networking/Port Networking.md",
-    "Servers/Monitorings & management/Heimdall.md",
     "Servers/Monitorings & management",
     "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
     "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
@@ -184,7 +184,6 @@
     "linux-system-directoies-poster.webp",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
-    "ELECTRONICS (PH-306)",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png"
