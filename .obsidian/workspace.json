@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
+                "file": "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
+                "file": "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md"
+                "file": "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md"
               }
             }
           },
@@ -139,13 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "471c52ca0abce26d",
+  "active": "4268f5021e97a559",
   "lastOpenFiles": [
+    "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
+    "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
     "Servers/Reverse Proxy Server/Traefik.md",
-    "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
-    "Networking/Port Forwarding vs triggering.md",
     "Servers/Reverse Proxy Server/IF port forwarding disable.md",
+    "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
+    "TECHNO Services/Docker Tutorial/Docker Networking.md",
+    "Networking/Encryption",
     "Servers/Web servers/Intro WEB Server.md",
+    "Networking/Port Forwarding vs triggering.md",
     "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "TECHNO Services/K8 Tutorial/EFK stack.md",
     "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
@@ -166,9 +170,6 @@
     "Operating System also Server/Linux/Linux ECO-systems Tools.md",
     "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "Operating System also Server/Linux/Linux Cheat Sheet.md",
-    "Git & GIthub/Github Actions.md",
-    "Operating System also Server/Linux/UBUNTU/UBUNTU BACKPORTS.md",
-    "TECHNO Services/Docker Tutorial/PORTAINER.IO.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating System also Server/Pasted linux file system structure.png.png",
@@ -184,7 +185,6 @@
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
     "SOLID STATE PYSICS (PH-305)",
-    "NUCLEAR PHYSICS (PH-304)",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png"

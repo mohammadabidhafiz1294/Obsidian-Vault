@@ -19,7 +19,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.portainer.entrypoints=http"
-      - "traefik.http.routers.portainer.rule=Host(`portainer.local.example.com`)"
+      -"traefik.http.routers.portainer.rule=Host(`portainer.local.example.com`)"
       - "traefik.http.middlewares.portainer-https-redirect.redirectscheme.scheme=https"
       - "traefik.http.routers.portainer.middlewares=portainer-https-redirect"
       - "traefik.http.routers.portainer-secure.entrypoints=https"
