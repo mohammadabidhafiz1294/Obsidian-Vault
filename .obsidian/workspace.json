@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Port Networking.md",
+                "file": "Servers/Monitorings & management/Heimdall.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Port Networking.md",
+                "file": "Servers/Monitorings & management/Heimdall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Port Networking.md"
+                "file": "Servers/Monitorings & management/Heimdall.md"
               }
             }
           },
@@ -139,9 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "471c52ca0abce26d",
+  "active": "4268f5021e97a559",
   "lastOpenFiles": [
+    "Operating Systems/MacOS",
     "Networking/Port Networking.md",
+    "Servers/Monitorings & management/Heimdall.md",
+    "Servers/Monitorings & management",
     "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
     "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
     "Servers/Reverse Proxy Server/Traefik.md",
@@ -163,28 +166,25 @@
     "Untitled.md",
     "Networking",
     "Servers/Reverse Proxy Server",
-    "Operating System also Server/Linux/Linux Variable grep command.md",
-    "Operating System also Server/Linux/Linux Desktop Environment.md",
-    "Operating System also Server/Linux/LINUX kernel can't directly clean ram.md",
-    "Operating System also Server/Linux/Linux File System Implemetation.md",
-    "Operating System also Server/Linux/Linux File Hierarchy Structure.md",
-    "Operating System also Server/Linux/Linux ECO-systems Tools.md",
-    "Operating System also Server/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
+    "Operating Systems/Linux/Linux Variable grep command.md",
+    "Operating Systems/Linux/Linux Desktop Environment.md",
+    "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
+    "Operating Systems/Linux/Linux File System Implemetation.md",
+    "Operating Systems/Linux/Linux File Hierarchy Structure.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
-    "Operating System also Server/Pasted linux file system structure.png.png",
-    "Operating System also Server/linux system structure.jpg",
-    "Operating System also Server/linux system structure 2.png",
+    "Operating Systems/Pasted linux file system structure.png.png",
+    "Operating Systems/linux system structure.jpg",
+    "Operating Systems/linux system structure 2.png",
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
-    "Operating System also Server/Linux/UBUNTU",
+    "Operating Systems/Linux/UBUNTU",
     "Git & GIthub",
     "linux-system-directoies-poster.webp",
     "RELATIVITY (PH-308)",
     "STATISTICAL MECHANICS (PH-307)",
     "ELECTRONICS (PH-306)",
-    "SOLID STATE PYSICS (PH-305)",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png"
