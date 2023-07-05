@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/SMTP Server.md",
+                "file": "Servers/DNS Server/DNS Records.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/SMTP Server.md",
+                "file": "Servers/DNS Server/DNS Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/SMTP Server.md"
+                "file": "Servers/DNS Server/DNS Records.md"
               }
             }
           },
@@ -141,8 +141,10 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
     "Servers/SMTP Server.md",
+    "Servers/DNS Server/DNS Records.md",
+    "Servers/DNS Server",
+    "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Docker Structure.md",
     "TECHNO Services/Docker Tutorial/Docker Volume.md",
     "Short Key Notes.md",
@@ -171,7 +173,6 @@
     "Untitled.md",
     "Networking",
     "Servers/Reverse Proxy Server",
-    "Operating Systems/Linux/Linux Variable grep command.md",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "Operating Systems/Pasted linux file system structure.png.png",
@@ -184,7 +185,6 @@
     "Git & GIthub",
     "linux-system-directoies-poster.webp",
     "RELATIVITY (PH-308)",
-    "STATISTICAL MECHANICS (PH-307)",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png"
