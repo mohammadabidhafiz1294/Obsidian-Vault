@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/Linux Variable grep command.md",
+                "file": "File System/File System - INTRO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Linux Variable grep command.md",
+                "file": "File System/File System - INTRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Linux/Linux Variable grep command.md"
+                "file": "File System/File System - INTRO.md"
               }
             }
           },
@@ -139,8 +139,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "471c52ca0abce26d",
+  "active": "4268f5021e97a559",
   "lastOpenFiles": [
+    "File System/ZFS vs RAID.md",
+    "File System/File System - INTRO.md",
+    "File System/Pasted linux file system structure.png.png",
+    "File System/linux system structure 2.png",
+    "File System",
+    "Operating Systems/Linux/Linux Variable grep command.md",
     "Servers/DNS Server/DNS Records.md",
     "Servers/SMTP Server.md",
     "Servers/DNS Server",
@@ -168,23 +174,17 @@
     "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
     "TECHNO Services/K8 Tutorial/K8s Configuration.md",
     "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
-    "Networking/T.C.P. vs U.D.P..md",
-    "Networking/T.C.P. (Transmission Control Protocol).md",
-    "Untitled.md",
     "Networking",
     "Servers/Reverse Proxy Server",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
-    "Operating Systems/Pasted linux file system structure.png.png",
-    "Operating Systems/linux system structure.jpg",
-    "Operating Systems/linux system structure 2.png",
+    "File System/linux system structure.jpg",
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
     "Operating Systems/Linux/UBUNTU",
     "Git & GIthub",
     "linux-system-directoies-poster.webp",
-    "RELATIVITY (PH-308)",
     "linux system structure.jpg",
     "linux system structure 2.png",
     "Pasted linux file system structure.png.png"
