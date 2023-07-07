@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File System/File System - INTRO.md",
+                "file": "Git & GIthub/Git FETCH vs PULL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File System/File System - INTRO.md",
+                "file": "Git & GIthub/Git FETCH vs PULL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File System/File System - INTRO.md"
+                "file": "Git & GIthub/Git FETCH vs PULL.md"
               }
             }
           },
@@ -139,10 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4268f5021e97a559",
+  "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "File System/ZFS vs RAID.md",
+    "Git & GIthub/Github Actions.md",
+    "Git & GIthub/Git FETCH vs PULL.md",
     "File System/File System - INTRO.md",
+    "File System/ZFS vs RAID.md",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System",
@@ -172,8 +174,6 @@
     "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
     "TECHNO Services/K8 Tutorial/K8s Architecture.md",
     "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
-    "TECHNO Services/K8 Tutorial/K8s Configuration.md",
-    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
     "Networking",
     "Servers/Reverse Proxy Server",
     "Pasted image 20230620185845.png",
