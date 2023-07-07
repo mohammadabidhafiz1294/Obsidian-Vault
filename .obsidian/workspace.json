@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/DNS Server/DNS Records.md",
+                "file": "Operating Systems/Linux/Linux Variable grep command.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/DNS Server/DNS Records.md",
+                "file": "Operating Systems/Linux/Linux Variable grep command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/DNS Server/DNS Records.md"
+                "file": "Operating Systems/Linux/Linux Variable grep command.md"
               }
             }
           },
@@ -141,8 +141,8 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "Servers/SMTP Server.md",
     "Servers/DNS Server/DNS Records.md",
+    "Servers/SMTP Server.md",
     "Servers/DNS Server",
     "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Docker Structure.md",
