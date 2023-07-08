@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/K8 Tutorial/CLUSTER.md",
+                "file": "File System/ZFS vs RAID.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TECHNO Services/K8 Tutorial/CLUSTER.md",
+            "file": "File System/ZFS vs RAID.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TECHNO Services/K8 Tutorial/CLUSTER.md"
+            "file": "File System/ZFS vs RAID.md"
           }
         }
       },
@@ -139,9 +139,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb665a47372be35a",
+  "active": "f0a9e4f7c6576dca",
   "lastOpenFiles": [
     "File System/File System - INTRO.md",
+    "Git & GIthub/Git FETCH vs PULL.md",
+    "/Git & GIthub/Git FETCH vs PULL.md",
+    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "File System/linux system structure.jpg",
     "File System/linux system structure 2.png",
     "File System/Pasted linux file system structure.png.png",
@@ -159,7 +162,6 @@
     "File System",
     "/File System",
     "Servers/Monitorings & management/Heimdall.md",
-    "TECHNO Services/K8 Tutorial/CLUSTER.md",
     "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
     "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
     "/TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
@@ -173,8 +175,6 @@
     "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
     "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
     "TECHNO Services/K8 Tutorial/K8s Architecture.md",
-    "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
-    "TECHNO Services/K8 Tutorial/EFK stack.md",
     "Pasted image 20230620185845.png",
     "/Pasted image 20230620185845.png",
     "Pasted image 20230618205830.png",
