@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "WEB-site/CMS/WORDPRESS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "WEB-site/CMS/WORDPRESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "WEB-site/CMS/WORDPRESS.md"
               }
             }
           },
@@ -141,6 +141,11 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "WEB-site/CMS & website.md",
+    "WEB-site/CMS/WORDPRESS.md",
+    "WEB-site/CMS",
+    "README.md",
+    "WEB-site",
     "Servers/DNS Server/Pi-Hole.md",
     "Servers/DNS Server/NS Server or DNS server.md",
     "Servers/DNS Server/DNS Records.md",
@@ -171,9 +176,6 @@
     "Networking/Encryption",
     "Servers/Web servers/Intro WEB Server.md",
     "Networking/Port Forwarding vs triggering.md",
-    "TECHNO Services/K8 Tutorial/CLUSTER.md",
-    "TECHNO Services/K8 Tutorial/EFK stack.md",
-    "TECHNO Services/K8 Tutorial/K3s vs Minikube vs Kind.md",
     "Networking",
     "Servers/Reverse Proxy Server",
     "Pasted image 20230620185845.png",
@@ -182,8 +184,6 @@
     "Pasted image 20230618205830.png",
     "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
-    "Operating Systems/Linux/UBUNTU",
-    "Git & GIthub",
     "linux-system-directoies-poster.webp",
     "linux system structure.jpg",
     "linux system structure 2.png",
