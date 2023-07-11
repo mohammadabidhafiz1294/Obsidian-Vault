@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB-site/CMS/WORDPRESS.md",
+                "file": "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PHP-FPM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB-site/CMS/WORDPRESS.md",
+                "file": "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB-site/CMS/WORDPRESS.md"
+                "file": "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md"
               }
             }
           },
@@ -139,10 +139,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "471c52ca0abce26d",
+  "active": "4268f5021e97a559",
   "lastOpenFiles": [
-    "WEB-site/CMS & website.md",
     "WEB-site/CMS/WORDPRESS.md",
+    "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
+    "Language & Coding/PHP",
+    "Language & Coding/Untitled.md",
+    "Language & Coding",
+    "WEB-site/CMS & website.md",
     "WEB-site/CMS",
     "README.md",
     "WEB-site",
@@ -174,15 +178,11 @@
     "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
     "TECHNO Services/Docker Tutorial/Docker Networking.md",
     "Networking/Encryption",
-    "Servers/Web servers/Intro WEB Server.md",
-    "Networking/Port Forwarding vs triggering.md",
     "Networking",
-    "Servers/Reverse Proxy Server",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "File System/linux system structure.jpg",
     "Pasted image 20230618205830.png",
-    "TECHNO Services/K8 Tutorial",
     "Techno Server/Untitled.canvas",
     "linux-system-directoies-poster.webp",
     "linux system structure.jpg",

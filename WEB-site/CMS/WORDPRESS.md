@@ -28,3 +28,12 @@ How It Works:
 7. Content Management: Administrators and editors can use the WordPress admin interface to create, edit, and manage content. The changes they make are saved in the database and reflected on the front-end of the site.
 
 > WordPress architecture separates presentation, application, and data layers, allowing for flexible customization and content management. The combination of themes, templates, plugins, and the underlying database enables the creation of dynamic and customizable websites without the need for extensive coding knowledge.
+
+
+### Is PHP-fPM In-built in Wordpress??
+
+No, #PHP-FPM (FastCGI Process Manager) is not built into WordPress itself. PHP-FPM is a separate component of the PHP programming language that is used to manage and execute PHP scripts. It is commonly used in conjunction with web servers like Nginx or Apache to handle PHP requests.
+
+WordPress, on the other hand, is a content management system (CMS) written in PHP. It is built to run on a web server with PHP support, but it does not include or rely on PHP-FPM by default. Instead, the choice of using PHP-FPM or any other PHP execution method is typically determined by the server configuration or the hosting environment in which WordPress is installed.
+
+Many popular hosting providers and server setups do use #PHP-FPM to enhance the performance and scalability of WordPress websites, but it is not a core component of the WordPress software itself.
