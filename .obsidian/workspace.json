@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
+                "file": "Servers/Web servers/NGINX web server.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
+                "file": "Servers/Web servers/NGINX web server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md"
+                "file": "Servers/Web servers/NGINX web server.md"
               }
             }
           },
@@ -139,10 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4268f5021e97a559",
+  "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "WEB-site/CMS/WORDPRESS.md",
     "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
+    "Servers/Web servers/NGINX web server.md",
+    "WEB-site/CMS/WORDPRESS.md",
     "Language & Coding/PHP",
     "Language & Coding/Untitled.md",
     "Language & Coding",
@@ -176,7 +177,6 @@
     "Servers/Reverse Proxy Server/Traefik.md",
     "Servers/Reverse Proxy Server/IF port forwarding disable.md",
     "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
-    "TECHNO Services/Docker Tutorial/Docker Networking.md",
     "Networking/Encryption",
     "Networking",
     "Pasted image 20230620185845.png",
