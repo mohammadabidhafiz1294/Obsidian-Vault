@@ -1,6 +1,6 @@
 RAID (Redundant Array of Independent Disks) and ZFS (Zettabyte File System) are both storage technologies, but they serve different purposes. RAID refers to a data storage technique that combines multiple physical disks into a single logical unit to provide data redundancy, improved performance, or both. On the other hand, ZFS is a file system that offers advanced features such as data integrity, pooled storage, and simplified management. Let's explore each technology further:
 
-RAID:
+***RAID***:
 
 - RAID can be implemented in various configurations, including RAID 0, RAID 1, RAID 5, RAID 6, and RAID 10, each with its own characteristics and benefits.
 - RAID primarily focuses on data redundancy and performance improvement by distributing data across multiple drives or using parity information.
@@ -8,7 +8,7 @@ RAID:
 - RAID can protect against drive failures, allowing for continued operation and data recovery in case of disk failures.
 - It does not offer advanced data management features like snapshots, data deduplication, or data integrity checks.
 
-ZFS:
+***ZFS***:
 
 - ZFS is a modern file system designed to address data integrity, scalability, and manageability.
 - It combines the features of a file system and a volume manager, eliminating the need for a separate volume management layer (like RAID).

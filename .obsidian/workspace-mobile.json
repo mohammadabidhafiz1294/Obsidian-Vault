@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File System/ZFS vs RAID.md",
+                "file": "Servers/SMTP Server.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "File System/ZFS vs RAID.md",
+            "file": "Servers/SMTP Server.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "File System/ZFS vs RAID.md"
+            "file": "Servers/SMTP Server.md"
           }
         }
       },
@@ -139,8 +139,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0a9e4f7c6576dca",
+  "active": "fb665a47372be35a",
   "lastOpenFiles": [
+    "WEB-site/CMS & website.md",
+    "WEB-site/CMS/WORDPRESS.md",
+    "Servers/DNS Server/Pi-Hole.md",
+    "Servers/DNS Server/NS Server or DNS server.md",
+    "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
+    "/WEB-site/CMS & website.md",
+    "/WEB-site/CMS/WORDPRESS.md",
+    "/Servers/DNS Server/Pi-Hole.md",
+    "/Servers/DNS Server/NS Server or DNS server.md",
+    "/Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
+    "WEB-site/CMS",
+    "WEB-site",
+    "Language & Coding/PHP",
+    "Language & Coding",
+    "/WEB-site/CMS",
+    "/WEB-site",
+    "/Language & Coding/PHP",
+    "/Language & Coding",
+    "File System/ZFS vs RAID.md",
     "File System/File System - INTRO.md",
     "Git & GIthub/Git FETCH vs PULL.md",
     "/Git & GIthub/Git FETCH vs PULL.md",
@@ -149,7 +168,6 @@
     "File System/linux system structure 2.png",
     "File System/Pasted linux file system structure.png.png",
     "File System/File System vs Volume Manager.md",
-    "File System/ZFS vs RAID.md",
     "File System/File System Implemetation.md",
     "/File System/File System - INTRO.md",
     "/File System/linux system structure.jpg",
@@ -165,27 +183,9 @@
     "TECHNO Services/K8 Tutorial/MAIN K8s COMPONENTs.md",
     "TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
     "/TECHNO Services/K8 Tutorial/K8s COMPONENTs for WORKLOADS.md",
-    "TECHNO Services/K8 Tutorial/Kubernetes (k8s).md",
-    "TECHNO Services/K8 Tutorial/setup for Elasticsearch, Fluentd, and Kibana.md",
-    "TECHNO Services/K8 Tutorial/Why EFK stack needs.md",
-    "TECHNO Services/K8 Tutorial/Rancher Vs EFK stack.md",
-    "TECHNO Services/K8 Tutorial/MicroK8s.md",
-    "TECHNO Services/K8 Tutorial/Main Components of a K8s cluster.md",
-    "TECHNO Services/K8 Tutorial/Lightweight Kubernetes.md",
-    "TECHNO Services/K8 Tutorial/Kubernetes(K8s) Installations & Requirements.md",
-    "TECHNO Services/K8 Tutorial/Kubernetes Workloads.md",
-    "TECHNO Services/K8 Tutorial/K8s Architecture.md",
     "Pasted image 20230620185845.png",
     "/Pasted image 20230620185845.png",
     "Pasted image 20230618205830.png",
-    "/Pasted image 20230618205830.png",
-    "TECHNO Services/K8 Tutorial",
-    "TECHNO Services/Docker Tutorial",
-    "TECHNO Services",
-    "Servers/Web servers",
-    "Servers",
-    "Operating System also Server/Linux/UBUNTU",
-    "Git & GIthub",
-    "/TECHNO Services/K8 Tutorial"
+    "/Pasted image 20230618205830.png"
   ]
 }
