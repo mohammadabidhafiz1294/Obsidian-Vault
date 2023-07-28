@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/Web servers/NGINX web server.md",
+                "file": "Language & Coding/PYTHON/Virtual Environment with PIP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 246.5
   },
   "right": {
     "id": "de071c2775da4e50",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/Web servers/NGINX web server.md",
+                "file": "Language & Coding/PYTHON/Virtual Environment with PIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/Web servers/NGINX web server.md"
+                "file": "Language & Coding/PYTHON/Virtual Environment with PIP.md"
               }
             }
           },
@@ -141,8 +141,10 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
     "Servers/Web servers/NGINX web server.md",
+    "Language & Coding/PYTHON/Virtual Environment with PIP.md",
+    "Language & Coding/PYTHON",
+    "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
     "WEB-site/CMS/WORDPRESS.md",
     "Language & Coding/PHP",
     "Language & Coding/Untitled.md",
@@ -176,9 +178,7 @@
     "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
     "Servers/Reverse Proxy Server/Traefik.md",
     "Servers/Reverse Proxy Server/IF port forwarding disable.md",
-    "Servers/Reverse Proxy Server/Portainer compose up docker -d with traefik.md",
     "Networking/Encryption",
-    "Networking",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "File System/linux system structure.jpg",
