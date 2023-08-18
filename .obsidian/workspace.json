@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
+                "file": "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Linux/LINUX kernel can't directly clean ram.md"
+                "file": "Networking/Encryption/TLS (Transport Layer Security ) encryption.md"
               }
             }
           },
@@ -141,7 +141,13 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
+    "Git & GIthub/Github Actions.md",
+    "Git & GIthub/Git FETCH vs PULL.md",
+    "Git & GIthub/Git add remote.md",
+    "Language & Coding/PYTHON/VE .gitignore file create.md",
     "Language & Coding/PYTHON/Virtual Environment with PIP.md",
+    "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
     "Servers/Web servers/NGINX web server.md",
     "Language & Coding/PYTHON",
     "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
@@ -156,8 +162,6 @@
     "Servers/DNS Server/Pi-Hole.md",
     "Servers/DNS Server/NS Server or DNS server.md",
     "Servers/DNS Server/DNS Records.md",
-    "Git & GIthub/Git FETCH vs PULL.md",
-    "Git & GIthub/Github Actions.md",
     "File System/File System - INTRO.md",
     "File System/ZFS vs RAID.md",
     "File System/Pasted linux file system structure.png.png",
@@ -174,10 +178,6 @@
     "Operating Systems/MacOS",
     "Networking/Port Networking.md",
     "Servers/Monitorings & management",
-    "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
-    "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
-    "Servers/Reverse Proxy Server/Traefik.md",
-    "Servers/Reverse Proxy Server/IF port forwarding disable.md",
     "Networking/Encryption",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
