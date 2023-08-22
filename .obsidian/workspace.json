@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
+                "file": "Git & GIthub/Github Actions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
+                "file": "Git & GIthub/Github Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Encryption/TLS (Transport Layer Security ) encryption.md"
+                "file": "Git & GIthub/Github Actions.md"
               }
             }
           },
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,6 +140,7 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
     "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
     "Git & GIthub/Github Actions.md",
     "Git & GIthub/Git FETCH vs PULL.md",
@@ -176,7 +176,6 @@
     "Short Key Notes.md",
     "Servers/Monitorings & management/Heimdall.md",
     "Operating Systems/MacOS",
-    "Networking/Port Networking.md",
     "Servers/Monitorings & management",
     "Networking/Encryption",
     "Pasted image 20230620185845.png",
