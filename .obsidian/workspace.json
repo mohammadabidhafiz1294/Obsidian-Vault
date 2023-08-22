@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & GIthub/Github Actions.md",
-                "mode": "preview",
+                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git & GIthub/Github Actions.md",
+                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git & GIthub/Github Actions.md"
+                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md"
               }
             }
           },
@@ -140,7 +140,10 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
+    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
+    "WEB-site/Jekyll/Static site generate structure RUBY.md",
     "Git & GIthub/Github Actions.md",
+    "WEB-site/Jekyll",
     "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
     "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
     "Git & GIthub/Git FETCH vs PULL.md",
@@ -173,11 +176,8 @@
     "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Docker Structure.md",
     "TECHNO Services/Docker Tutorial/Docker Volume.md",
-    "Short Key Notes.md",
-    "Servers/Monitorings & management/Heimdall.md",
     "Operating Systems/MacOS",
     "Servers/Monitorings & management",
-    "Networking/Encryption",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "File System/linux system structure.jpg",
