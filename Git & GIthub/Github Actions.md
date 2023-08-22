@@ -111,6 +111,23 @@ steps:
     
 - These steps are executed in the `build` job.
 - The steps include checking out the repository, setting up GitHub Pages, configuring Ruby environment, building the site using Jekyll, testing the site with HTMLProofer, and uploading the site artifact.
+- **significations explain:**
+	1. **Checkout**: The `actions/checkout` action is used to clone the repository content into the runner environment. This action checks out the latest commit on the specified branch (e.g., `main` or `master`) and makes it available for further steps.
+    
+	2. **Setup Pages**: The `actions/configure-pages` action is used to configure settings related to GitHub Pages. The `id: pages` allows you to refer to the outputs of this step later in the workflow. This step helps in setting up necessary configurations for GitHub Pages deployment.
+    
+	3. **Setup Ruby**: The `ruby/setup-ruby` action is used to set up the Ruby environment. In this case, it sets up the Ruby version defined as `ruby-version: 3`. It also indicates that the Bundler cache should be utilized (`bundler-cache: true`), which can speed up the installation of Ruby gems.
+    
+	4. **Build site (Jekyll)**: The `run` step here executes the command `bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"`. This command uses Jekyll, a static site generator, to build the site. The `-d` flag specifies the output directory. The value `${{ steps.pages.outputs.base_path }}` retrieves the base path from the outputs of the previous `Setup Pages` step.
+    
+    Additionally, the `env` section sets the environment variable `JEKYLL_ENV` to `"production"`, which might be used by Jekyll to configure the build for a production environment.
+    
+	5. **Test site**: This step runs a shell script that uses `bundle exec htmlproofer` to test the generated site. HTMLProofer is a tool used to validate HTML documents and check links. The script disables checks for external links (`--disable-external`), checks HTML validity (`--check-html`), and allows hash-based URLs (`--allow_hash_href`).
+    
+	6. **Upload site artifact**: The `actions/upload-pages-artifact` action is used to upload the generated site as an artifact. This step makes it possible to store the built site as a downloadable artifact associated with the GitHub Actions run. Users can access this artifact after the workflow has completed.
+    
+
+		Each step is a self-contained action that contributes to the overall process of building the site and preparing it for deployment. The actions are executed in sequence, and the information or artifacts produced by one step can be used by subsequent steps. This modular approach allows for flexibility and ease of maintenance when setting up complex workflows. 
 
 4. **Steps in the `deploy` Job:**
    
