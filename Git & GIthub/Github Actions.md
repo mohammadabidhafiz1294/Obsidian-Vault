@@ -60,7 +60,7 @@ concurrency:
 
 3. **Jobs:**
     
-```
+```yaml
 jobs:   
 	build:     
 		runs-on: ubuntu-latest     
@@ -114,7 +114,7 @@ steps:
 
 4. **Steps in the `deploy` Job:**
    
-```
+```yaml
 steps:   
 	- name: Deploy to GitHub Pages     
 	  id: deployment     
