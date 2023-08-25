@@ -11,12 +11,14 @@
             "id": "471c52ca0abce26d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
+                "viewState": {
+                  "x": -708.5,
+                  "y": -180.5,
+                  "zoom": -0.42333415985093337
+                }
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md",
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md"
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas"
               }
             }
           },
@@ -140,8 +142,9 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "WEB-site/Jekyll/Static site generate structure RUBY.md",
+    "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
+    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "Git & GIthub/Github Actions.md",
     "WEB-site/Jekyll",
     "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
@@ -175,7 +178,6 @@
     "Servers/DNS Server",
     "TECHNO Services/Docker Tutorial/Docker-Chat-Sheet.md",
     "TECHNO Services/Docker Tutorial/Docker Structure.md",
-    "TECHNO Services/Docker Tutorial/Docker Volume.md",
     "Operating Systems/MacOS",
     "Servers/Monitorings & management",
     "Pasted image 20230620185845.png",
