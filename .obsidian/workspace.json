@@ -11,14 +11,12 @@
             "id": "471c52ca0abce26d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
-                "viewState": {
-                  "x": -708.5,
-                  "y": -180.5,
-                  "zoom": -0.42333415985093337
-                }
+                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
+                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas"
+                "file": "WEB-site/Jekyll/Static site generate structure RUBY.md"
               }
             }
           },
@@ -142,8 +140,8 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "WEB-site/Jekyll/Static site generate structure RUBY.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
+    "WEB-site/Jekyll/Static site generate structure RUBY.md",
     "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "Git & GIthub/Github Actions.md",
     "WEB-site/Jekyll",
