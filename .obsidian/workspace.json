@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/Micro-Services/When scaling goes wrong - troubleshooting strategy.md",
+                "file": "Tools Learning/Markdown-cheatsheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/Micro-Services/When scaling goes wrong - troubleshooting strategy.md",
+                "file": "Tools Learning/Markdown-cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/Micro-Services/When scaling goes wrong - troubleshooting strategy.md"
+                "file": "Tools Learning/Markdown-cheatsheet.md"
               }
             }
           },
@@ -140,8 +140,10 @@
   },
   "active": "471c52ca0abce26d",
   "lastOpenFiles": [
-    "TECHNO Services/Micro-Services/Trace-based observability and visualization.md",
     "TECHNO Services/Micro-Services/When scaling goes wrong - troubleshooting strategy.md",
+    "Tools Learning/Markdown-cheatsheet.md",
+    "Tools Learning",
+    "TECHNO Services/Micro-Services/Trace-based observability and visualization.md",
     "TECHNO Services/Micro-Services/Scaling micro-services best practices.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "TECHNO Services/Micro-Services",
@@ -176,9 +178,7 @@
     "File System/linux system structure 2.png",
     "File System",
     "Operating Systems/Linux/Linux Variable grep command.md",
-    "Servers/SMTP Server.md",
     "Servers/DNS Server",
-    "Operating Systems/MacOS",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618001526.png",
     "File System/linux system structure.jpg",
