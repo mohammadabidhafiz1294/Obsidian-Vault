@@ -5,16 +5,17 @@
 		{"type":"text","text":"   ***tages_pages***","id":"cf643bf528e9629f","x":-981,"y":-380,"width":201,"height":50},
 		{"type":"text","text":"   **Protfolio_page**","id":"51d09ad5b69db534","x":-771,"y":-380,"width":200,"height":50,"color":"4"},
 		{"type":"text","text":"   **Home_page**","id":"af0fc2286f6d8c65","x":-1380,"y":-380,"width":180,"height":50},
-		{"type":"text","text":"##  **abidhafiz.githubb.io**","id":"6718bf50001462d3","x":-841,"y":-20,"width":339,"height":50,"color":"1"},
 		{"type":"text","text":"**Archieves**","id":"01cb2bde4876b5ee","x":-1180,"y":-380,"width":160,"height":50},
-		{"type":"text","text":"### **File structure diagram**","id":"72ba08775d99a782","x":-830,"y":180,"width":317,"height":60},
-		{"id":"aed8089900c70685","x":-781,"y":320,"width":219,"height":50,"type":"text","text":"#### 1._config.yml\n\nfirst loadeed"},
-		{"id":"f4cf61f250a2df37","x":-781,"y":460,"width":219,"height":50,"type":"text","text":"#### 2._includes\nhtmls added here"},
-		{"id":"99d09eadd6afc17d","x":-781,"y":600,"width":219,"height":50,"type":"text","text":"#### 3. _tabs\nmenu bar items"},
-		{"id":"11b75ee6ac958a08","x":-781,"y":740,"width":219,"height":50,"type":"text","text":"#### 4. _posts\nall post are  loads from here"},
-		{"id":"0a0e4684c3098e4b","x":-1080,"y":740,"width":206,"height":50,"type":"text","text":"#### Auto-lqip feature added"},
-		{"id":"1f2dc7b8691b3202","x":-1160,"y":317,"width":207,"height":143,"type":"text","text":"- _sass file configure \n- _plugins loadded here\n- "},
-		{"id":"89837499d29c18ee","x":-781,"y":860,"width":219,"height":50,"type":"text","text":"#### 5 .Assests\nimages,is,css custom runnign"}
+		{"id":"1f2dc7b8691b3202","x":-1200,"y":345,"width":180,"height":280,"type":"text","text":"###### behave files\n- _sass file configure \n- _plugins loadded here\n- time,date,url,sitemap loadded\n- configuration site map loadded"},
+		{"id":"0a0e4684c3098e4b","x":-1200,"y":790,"width":200,"height":100,"type":"text","text":"#### Auto-lqip feature added"},
+		{"type":"text","text":"##  **abidhafiz.githubb.io**","id":"6718bf50001462d3","x":-910,"y":-60,"width":339,"height":50,"color":"1"},
+		{"type":"text","text":"### **File structure diagram**","id":"72ba08775d99a782","x":-899,"y":180,"width":317,"height":60},
+		{"id":"aed8089900c70685","x":-850,"y":345,"width":219,"height":50,"type":"text","text":"#### 1._config.yml\n\nfirst loadeed"},
+		{"id":"f4cf61f250a2df37","x":-850,"y":485,"width":219,"height":50,"type":"text","text":"#### 2._includes\nhtmls added here"},
+		{"id":"99d09eadd6afc17d","x":-850,"y":625,"width":219,"height":50,"type":"text","text":"#### 3. _tabs\nmenu bar items"},
+		{"id":"11b75ee6ac958a08","x":-850,"y":740,"width":219,"height":50,"type":"text","text":"#### 4. _posts\nall post are  loads from here"},
+		{"id":"89837499d29c18ee","x":-850,"y":865,"width":219,"height":50,"type":"text","text":"#### 5 .Assests\nimages,is,css custom runnign"},
+		{"id":"94b6732b9e46a155","x":-480,"y":915,"width":199,"height":165,"type":"text","text":"###### Loadded Here\n- images\n- css appended\n- js files"}
 	],
 	"edges":[
 		{"id":"d6497b9181ffcbf5","fromNode":"6718bf50001462d3","fromSide":"top","toNode":"5f5b6805a40e3b93","toSide":"bottom"},
@@ -30,6 +31,7 @@
 		{"id":"7b246cb5cbc6d96c","fromNode":"99d09eadd6afc17d","fromSide":"bottom","toNode":"11b75ee6ac958a08","toSide":"top"},
 		{"id":"a9058a7b163739d5","fromNode":"11b75ee6ac958a08","fromSide":"left","toNode":"0a0e4684c3098e4b","toSide":"right"},
 		{"id":"421b2383b9f6e0e7","fromNode":"aed8089900c70685","fromSide":"left","toNode":"1f2dc7b8691b3202","toSide":"right"},
-		{"id":"b7d890a2d28df1d2","fromNode":"11b75ee6ac958a08","fromSide":"bottom","toNode":"89837499d29c18ee","toSide":"top"}
+		{"id":"b7d890a2d28df1d2","fromNode":"11b75ee6ac958a08","fromSide":"bottom","toNode":"89837499d29c18ee","toSide":"top"},
+		{"id":"f34f425f79da7c34","fromNode":"89837499d29c18ee","fromSide":"right","toNode":"94b6732b9e46a155","toSide":"left"}
 	]
 }

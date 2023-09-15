@@ -15,9 +15,9 @@
               "state": {
                 "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
                 "viewState": {
-                  "x": -1078,
-                  "y": 388.5,
-                  "zoom": 0
+                  "x": -641.25,
+                  "y": -61.95740136502445,
+                  "zoom": -0.5
                 }
               }
             }
@@ -139,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
