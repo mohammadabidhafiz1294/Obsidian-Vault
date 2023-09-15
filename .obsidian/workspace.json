@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a77498b100f03f",
+        "id": "aaeac3a6eabe2bf5",
         "type": "tabs",
         "children": [
           {
-            "id": "66b6e309037d245f",
+            "id": "86a73a8902195207",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
-                "viewState": {
-                  "x": -641.25,
-                  "y": -61.95740136502445,
-                  "zoom": -0.5
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -150,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66b6e309037d245f",
+  "active": "c581437098f66067",
   "lastOpenFiles": [
     "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
