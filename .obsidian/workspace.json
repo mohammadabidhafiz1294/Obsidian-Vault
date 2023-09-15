@@ -15,28 +15,14 @@
               "state": {
                 "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
                 "viewState": {
-                  "x": -731,
-                  "y": 247.6109652509653,
-                  "zoom": -0.4627699040625198
+                  "x": -671.5,
+                  "y": 765,
+                  "zoom": 0
                 }
-              }
-            }
-          },
-          {
-            "id": "d65e47683aff182b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB-site/Jekyll/Chirpy theme structure and rendering.md"
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas"
               }
             }
           },
@@ -165,11 +151,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d65e47683aff182b",
+  "active": "66b6e309037d245f",
   "lastOpenFiles": [
+    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "WEB-site/Jekyll/Static site generate structure RUBY.md",
-    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "Tools Learning/Markdown-cheatsheet.md",
     "TECHNO Services/Micro-Services/When scaling goes wrong - troubleshooting strategy.md",
     "Tools Learning",
