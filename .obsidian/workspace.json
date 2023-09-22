@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/Docker Swarm vs Kubernetes Clusters.md",
+                "file": "Git & GIthub/Error - failed to push some refs to.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/Docker Swarm vs Kubernetes Clusters.md",
+                "file": "Git & GIthub/Error - failed to push some refs to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/Docker Swarm vs Kubernetes Clusters.md"
+                "file": "Git & GIthub/Error - failed to push some refs to.md"
               }
             }
           },
@@ -151,6 +151,7 @@
   "active": "86a73a8902195207",
   "lastOpenFiles": [
     "TECHNO Services/Docker Swarm vs Kubernetes Clusters.md",
+    "Git & GIthub/Error - failed to push some refs to.md",
     "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "WEB-site/Jekyll/Static site generate structure RUBY.md",
@@ -184,7 +185,6 @@
     "Servers/DNS Server/NS Server or DNS server.md",
     "Servers/DNS Server/DNS Records.md",
     "File System/File System - INTRO.md",
-    "File System/ZFS vs RAID.md",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System",
