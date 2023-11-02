@@ -11,14 +11,12 @@
             "id": "86a73a8902195207",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 111.59999999999998,
-                  "zoom": 0
-                }
+                "file": "Servers/DNS Server/DNS Records.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
+                "file": "Servers/DNS Server/DNS Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas"
+                "file": "Servers/DNS Server/DNS Records.md"
               }
             }
           },
@@ -152,8 +150,11 @@
   },
   "active": "86a73a8902195207",
   "lastOpenFiles": [
-    "Pasted image 20230620185845.png",
+    "Servers/DNS Server/NS Server or DNS server.md",
+    "Servers/DNS Server/SMTP server DNS records.md",
+    "Servers/DNS Server/DNS Records.md",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
+    "Pasted image 20230620185845.png",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.md",
     "TECHNO Services/My HomeLab",
     "Pasted image 20230618205830.png",
@@ -189,8 +190,6 @@
     "WEB-site/CMS",
     "README.md",
     "WEB-site",
-    "Servers/DNS Server/Pi-Hole.md",
-    "Servers/DNS Server/NS Server or DNS server.md",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System",
