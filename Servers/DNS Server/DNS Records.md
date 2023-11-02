@@ -1,6 +1,6 @@
 #DNS (Domain Name System) records are essential components of the internet infrastructure. They are used to translate human-readable domain names, such as example.com, into machine-readable IP addresses, such as 192.0.2.1. DNS records help establish the connection between domain names and the corresponding servers hosting the associated websites, email services, or other internet resources.
 
-Each DNS record contains specific information about a domain or subdomain and is stored in DNS servers. When a user enters a domain name in a web browser or attempts to access any network resource associated with that domain, the DNS system is queried to retrieve the corresponding IP address. This process involves looking up the appropriate DNS records for the requested domain.
+Each #DNS-record contains specific information about a domain or subdomain and is stored in DNS servers. When a user enters a domain name in a web browser or attempts to access any network resource associated with that domain, the DNS system is queried to retrieve the corresponding IP address. This process involves looking up the appropriate DNS records for the requested domain.
 
 Here are some common types of DNS records:
 
