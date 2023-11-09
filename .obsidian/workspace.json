@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aaeac3a6eabe2bf5",
+        "id": "ca42a28c84073969",
         "type": "tabs",
         "children": [
           {
-            "id": "86a73a8902195207",
+            "id": "911d188293b97894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servers/DNS Server/SMTP server DNS records.md",
+                "file": "Hardware/CPU/x86_64 Architecture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servers/DNS Server/SMTP server DNS records.md",
+                "file": "Hardware/CPU/x86_64 Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servers/DNS Server/SMTP server DNS records.md"
+                "file": "Hardware/CPU/x86_64 Architecture.md"
               }
             }
           },
@@ -148,12 +148,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86a73a8902195207",
+  "active": "911d188293b97894",
   "lastOpenFiles": [
+    "Hardware/CPU/x86_64 Architecture.md",
+    "Hardware/CPU",
+    "Hardware/Untitled.md",
+    "Operating Systems/Linux/Linux CPU Information in TERMINAL.md",
+    "Hardware",
+    "Operating Systems/Windows",
+    "Servers/DNS Server/SMTP server DNS records.md",
     "Servers/DNS Server/DNS Records.md",
     "Servers/SMTP Server.md",
     "Servers/DNS Server/NS Server or DNS server.md",
-    "Servers/DNS Server/SMTP server DNS records.md",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.md",
@@ -183,16 +189,10 @@
     "Servers/Web servers/NGINX web server.md",
     "Language & Coding/PYTHON",
     "Language & Coding/PHP/PHP-FPM (fastCGI Process Manager).md",
-    "WEB-site/CMS/WORDPRESS.md",
     "Language & Coding/PHP",
-    "Language & Coding/Untitled.md",
     "Language & Coding",
-    "WEB-site/CMS & website.md",
-    "WEB-site/CMS",
-    "WEB-site",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
-    "File System",
     "File System/linux system structure.jpg",
     "Techno Server/Untitled.canvas",
     "linux-system-directoies-poster.webp",
