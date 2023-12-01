@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/Linux Cheat Sheet.md",
+                "file": "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Linux Cheat Sheet.md",
+                "file": "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Linux/Linux Cheat Sheet.md"
+                "file": "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md"
               }
             }
           },
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4268f5021e97a559",
+  "active": "049b0abe68cf748f",
   "lastOpenFiles": [
+    "Operating Systems/Linux/Linux Cheat Sheet.md",
     "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "Operating Systems/Linux/Linux Desktop Environment.md",
     "Operating Systems/Linux/Linux CPU Information in TERMINAL.md",
@@ -188,7 +189,6 @@
     "Git & GIthub/Git FETCH vs PULL.md",
     "Git & GIthub/Git add remote.md",
     "Language & Coding/PYTHON/VE .gitignore file create.md",
-    "Language & Coding/PYTHON/Virtual Environment with PIP.md",
     "Language & Coding/PYTHON",
     "Language & Coding/PHP",
     "File System/Pasted linux file system structure.png.png",
