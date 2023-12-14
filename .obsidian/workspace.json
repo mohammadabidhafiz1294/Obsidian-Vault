@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
     "id": "de071c2775da4e50",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61605d59fe1700be",
+  "active": "4268f5021e97a559",
   "lastOpenFiles": [
     "Tech Engineer/Untitled.md",
     "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
