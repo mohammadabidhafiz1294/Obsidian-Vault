@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
+                "file": "Operating Systems/Linux/Linux Variable grep command.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
+                "file": "Operating Systems/Linux/Linux Variable grep command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md"
+                "file": "Operating Systems/Linux/Linux Variable grep command.md"
               }
             }
           },
@@ -128,7 +128,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -148,10 +150,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4268f5021e97a559",
+  "active": "61605d59fe1700be",
   "lastOpenFiles": [
-    "Tech Engineer/Untitled.md",
+    "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
     "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
+    "Tech Engineer/Untitled.md",
     "Tech Engineer/Software Engineer",
     "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "Tech Engineer",
@@ -190,7 +193,6 @@
     "WEB-site/Jekyll",
     "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
     "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
-    "Git & GIthub/Git FETCH vs PULL.md",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System/linux system structure.jpg",
