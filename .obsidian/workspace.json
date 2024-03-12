@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/Linux Variable grep command.md",
+                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Linux Variable grep command.md",
+                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Linux/Linux Variable grep command.md"
+                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md"
               }
             }
           },
@@ -152,15 +152,24 @@
   },
   "active": "61605d59fe1700be",
   "lastOpenFiles": [
+    "Servers/Monitorings & management/Heimdall.md",
+    "Servers/DNS Server/SMTP server DNS records.md",
+    "Servers/DNS Server/Pi-Hole.md",
+    "Servers/DNS Server/NS Server or DNS server.md",
+    "Servers/DNS Server/DNS Records.md",
+    "Operating Systems/Linux/Linux Variable grep command.md",
+    "Operating Systems/Linux/Linux Cheat Sheet.md",
+    "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
+    "Operating Systems/Linux/Linux CPU Information in TERMINAL.md",
+    "Operating Systems/Linux/Linux Desktop Environment.md",
+    "Operating Systems/Linux/Linux ECO-systems Tools.md",
+    "Operating Systems/Linux/Linux File Hierarchy Structure.md",
+    "Operating Systems/Linux/Linux File System Implemetation.md",
     "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
     "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
     "Tech Engineer/Untitled.md",
     "Tech Engineer/Software Engineer",
-    "Operating Systems/Linux/LINUX CHEATSHEET DOCUMENTATION.md",
     "Tech Engineer",
-    "Operating Systems/Linux/Linux Cheat Sheet.md",
-    "Operating Systems/Linux/Linux Desktop Environment.md",
-    "Operating Systems/Linux/Linux CPU Information in TERMINAL.md",
     "Networking/TOOLs/NETCAT tool.md",
     "Networking/TOOLs",
     "Hardware/CPU/x86_64 Architecture.md",
@@ -168,10 +177,7 @@
     "Hardware/Untitled.md",
     "Hardware",
     "Operating Systems/Windows",
-    "Servers/DNS Server/SMTP server DNS records.md",
-    "Servers/DNS Server/DNS Records.md",
     "Servers/SMTP Server.md",
-    "Servers/DNS Server/NS Server or DNS server.md",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.md",
@@ -184,15 +190,9 @@
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "WEB-site/Jekyll/Static site generate structure RUBY.md",
     "Tools Learning/Markdown-cheatsheet.md",
-    "TECHNO Services/Micro-Services/When scaling goes wrong - troubleshooting strategy.md",
     "Tools Learning",
-    "TECHNO Services/Micro-Services/Trace-based observability and visualization.md",
-    "TECHNO Services/Micro-Services/Scaling micro-services best practices.md",
     "TECHNO Services/Micro-Services",
-    "Git & GIthub/Github Actions.md",
     "WEB-site/Jekyll",
-    "Networking/Encryption/TLS (Transport Layer Security ) encryption.md",
-    "Networking/Encryption/SSL( Secure Sockets Layer ) Encryption.md",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System/linux system structure.jpg",
