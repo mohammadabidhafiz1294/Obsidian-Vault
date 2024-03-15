@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "600904b7747a3318",
+        "id": "c398dad0a9324dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "61605d59fe1700be",
+            "id": "12406515435c8d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
+                "file": "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
+                "file": "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md"
+                "file": "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md"
               }
             }
           },
@@ -150,8 +150,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61605d59fe1700be",
+  "active": "12406515435c8d5d",
   "lastOpenFiles": [
+    "Learning PATH/Certifications/DevOps Certifications.md",
+    "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
+    "Learning PATH/Certifications/Programming & Development Certificate.md",
+    "Learning PATH/Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
+    "Learning PATH/Skills Key Points",
+    "Learning PATH/Certifications",
+    "Untitled",
+    "Learning PATH",
     "Servers/Monitorings & management/Heimdall.md",
     "Servers/DNS Server/SMTP server DNS records.md",
     "Servers/DNS Server/Pi-Hole.md",
@@ -166,10 +174,9 @@
     "Operating Systems/Linux/Linux File Hierarchy Structure.md",
     "Operating Systems/Linux/Linux File System Implemetation.md",
     "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
-    "Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
     "Tech Engineer/Untitled.md",
-    "Tech Engineer/Software Engineer",
-    "Tech Engineer",
+    "Learning PATH/Tech Engineer/Software Engineer",
+    "Learning PATH/Tech Engineer",
     "Networking/TOOLs/NETCAT tool.md",
     "Networking/TOOLs",
     "Hardware/CPU/x86_64 Architecture.md",
@@ -181,18 +188,11 @@
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.md",
-    "TECHNO Services/My HomeLab",
     "Pasted image 20230618205830.png",
     "Pasted image 20230618001526.png",
     "Git & GIthub/Error - failed to push some refs to.md",
     "TECHNO Services/Docker Swarm vs Kubernetes Clusters.md",
-    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
-    "WEB-site/Jekyll/Static site generate structure RUBY.md",
-    "Tools Learning/Markdown-cheatsheet.md",
-    "Tools Learning",
-    "TECHNO Services/Micro-Services",
-    "WEB-site/Jekyll",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System/linux system structure.jpg",

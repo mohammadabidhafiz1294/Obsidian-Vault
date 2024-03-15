@@ -1,5 +1,4 @@
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a09462d-3f5b-43a9-badf-6f5786d8d7aa_1218x646.png)
-]
 In order to level up massively and work towards senior software engineering positions, You need to grow beyond “I can build a basic app.”
 
 What we usually mean by that is, I can:
