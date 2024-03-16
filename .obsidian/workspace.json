@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
+                "file": "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
+                "file": "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md"
+                "file": "Learning PATH/Skills Key Points/Quantum Computing Skills.md"
               }
             }
           },
@@ -152,9 +152,11 @@
   },
   "active": "12406515435c8d5d",
   "lastOpenFiles": [
-    "Learning PATH/Certifications/DevOps Certifications.md",
+    "Learning PATH/Skills Key Points/DevOps Skills.md",
+    "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
     "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
     "Learning PATH/Certifications/Programming & Development Certificate.md",
+    "Learning PATH/Certifications/DevOps Certifications.md",
     "Learning PATH/Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
     "Learning PATH/Skills Key Points",
     "Learning PATH/Certifications",
@@ -190,8 +192,6 @@
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.md",
     "Pasted image 20230618205830.png",
     "Pasted image 20230618001526.png",
-    "Git & GIthub/Error - failed to push some refs to.md",
-    "TECHNO Services/Docker Swarm vs Kubernetes Clusters.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
