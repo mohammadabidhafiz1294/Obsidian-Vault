@@ -1,0 +1,56 @@
+Skills set - should be added in Linkedin
+- [ ] Programming Language
+- [ ] Programming
+- [ ] Programming Concepts
+- [ ] C
+- [ ] Java
+- [ ] Python
+- [ ] Ruby
+- [ ] RDBMS(Relational Database Management System)
+- [x] X
+- [ ] DevOps
+- [ ] CI (Continuous Intergration )
+- [ ] Dockerization
+- [ ] Containerization
+- [ ] Container Orchestration
+- [ ] CD (Continuous Development)
+- [ ] Kibana
+- [ ] OpenShift
+- [ ] Test Automation
+- [ ] Scripting
+- [ ] Bash Scripting
+- [ ] Kubernetes
+- [ ] Software Development (?)
+- [ ] Infrastructure of code (IaC) 
+- [ ] Terraform
+- [ ] Jenkins
+- [x] X
+- [ ] Linux
+- [ ] System Administration
+- [ ] Linux System Administration
+- [ ] Server Administration
+- [ ] Access Management
+- [ ] BackUP & Recovery System
+- [ ] PowerShell
+- [x] X
+- [ ] English
+- [ ] Site Reliability Engineering (?)
+- [ ] Reporting System
+- [ ] Analytical Skills
+- [ ] Problem Solving
+- [ ] Communication
+- [ ] Interpersonal Communication
+- [ ] Troubleshooting
+- [ ] Technical Discussions
+- [ ] Skill Development
+- [x] X
+- [ ] Intrusion Detection (SonarQube)
+- [ ] Cyber-Security
+- [ ] Control Systems
+- [x] X
+- [ ]  Apache Spark
+- [ ] PySpark
+- [ ] Microsoft azure
+- [ ] Data Engineering
+- [ ] Data Processing
+
