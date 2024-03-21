@@ -4,6 +4,10 @@ Skills Listed Added to Linkedin
 - [ ] Cirq
 - [ ] Q#
 - [ ] PyQuil
+- [ ] Q|SI>
+- [ ] Silq
+- [ ] QML
+- [ ] LIQUi|>
 - [x] X
 - [ ] Qubits - gates,circuit,measurements
 - [ ] superconducting circuits
@@ -19,6 +23,9 @@ Skills Listed Added to Linkedin
 - [ ] Quantum Algorithms
 - [ ] Simulating quantum systems
 - [ ] Quantum application
+- [ ] Quantum Cryogenic
+- [ ] Deep Learning techniques
+- [ ] parameterized quantum circuits (PQC)
 - [ ]  Grover's algorithm for searching
 - [ ] Quantum algorithm for factoring
 - [ ] quantum key distribution for secure communication
