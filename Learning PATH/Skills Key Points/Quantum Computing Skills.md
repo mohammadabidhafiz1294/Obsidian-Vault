@@ -1,2 +1,18 @@
 Skills Listed Added to Linkedin
-- [ ] 
+- [x] X (Programming Framework/simulators)
+- [ ] Qiskit
+- [ ] Cirq
+- [ ] Q#
+- [ ] PyQuil
+- [x] X
+- [ ] Qubits - gates,circuit,measurements
+- [ ] Quantum Information
+- [ ] Quantum Entanglement
+- [ ] Superposition
+- [ ] Quantum Algorithms
+- [ ] Simulating quantum systems
+- [ ] Quantum application
+- [ ]  Grover's algorithm for searching
+- [ ] Quantum algorithm for factoring
+- [ ] quantum key distribution for secure communication
+- [ ] quantum error correction for robust computation
