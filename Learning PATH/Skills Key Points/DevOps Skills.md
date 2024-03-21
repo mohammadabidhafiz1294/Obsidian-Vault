@@ -35,7 +35,7 @@ Skills set - should be added in Linkedin
 - [ ] Infrastructure Solutions 
 - [ ] Terraform
 - [ ] Jenkins
-- [ ] **Oracle Cloud Infrastructure** (OCI)
+- [ ] Oracle Cloud Infrastructure (OCI)
 - [ ] DataBase Management
 - [ ] Log Analysics
 - [ ] Logstash
@@ -43,7 +43,8 @@ Skills set - should be added in Linkedin
 - [ ] Hyper-v
 - [ ] OpenStack
 - [ ] Nagios Core
-- [ ] 
+- [ ] Prometheus
+- [ ] ELK Stack
 - [x] X
 - [ ] Linux
 - [ ] Linux Server
