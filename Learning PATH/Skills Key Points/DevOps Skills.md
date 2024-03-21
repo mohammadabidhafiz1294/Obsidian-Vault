@@ -1,4 +1,5 @@
 Skills set - should be added in Linkedin
+- [x] X 
 - [ ] Programming Language
 - [ ] Programming
 - [ ] Programming Concepts
@@ -7,9 +8,13 @@ Skills set - should be added in Linkedin
 - [ ] Python
 - [ ] Ruby
 - [ ] RDBMS(Relational Database Management System)
+- [ ] Django
 - [x] X
 - [ ] DevOps
 - [ ] CI (Continuous Intergration )
+- [ ] Docker
+- [ ] Docker Swarm
+- [ ] Docker Products
 - [ ] Dockerization
 - [ ] Containerization
 - [ ] Container Orchestration
@@ -18,23 +23,70 @@ Skills set - should be added in Linkedin
 - [ ] OpenShift
 - [ ] Test Automation
 - [ ] Scripting
+- [ ] Shell Scripting
 - [ ] Bash Scripting
 - [ ] Kubernetes
 - [ ] Software Development (?)
+- [ ] Software Configuration Management
+- [ ] Puppet
+- [ ] RebbitMQ
+- [ ] Tomcat
 - [ ] Infrastructure of code (IaC) 
+- [ ] Infrastructure Solutions 
 - [ ] Terraform
 - [ ] Jenkins
+- [ ] **Oracle Cloud Infrastructure** (OCI)
+- [ ] DataBase Management
+- [ ] Log Analysics
+- [ ] Logstash
+- [ ] Ansible
+- [ ] Hyper-v
+- [ ] OpenStack
+- [ ] Nagios Core
+- [ ] 
 - [x] X
 - [ ] Linux
+- [ ] Linux Server
+- [ ] Windows Server
+- [ ] Windows Server Update Services (WSUS)
+- [ ] DNS Administration
 - [ ] System Administration
 - [ ] Linux System Administration
 - [ ] Server Administration
 - [ ] Access Management
 - [ ] BackUP & Recovery System
 - [ ] PowerShell
+- [ ] Networking
+- [ ] Server Networking
+- [ ] Bash
+- [ ] Web Server
+- [ ] Hyper text Transfer Protocol (HTTP)
+- [ ] 
+- [ ] Mail sever
+- [ ] Simple Mail Transfer Protocol
+- [ ] 
+- [ ] Nginx
+- [ ] 
+- [x] X
+- [ ] Amazon Web service
+- [ ] AWS
+	- [ ] AWS Lamda
+	- [ ] AWS Simple Notifications Service
+- [ ] GCP
+- [ ] Microsoft azure
+- [ ] Git 
+- [ ] Github
+- [ ] Gitlab
+- [ ] 
+- [ ] Google Cloud Platform
+- [ ] Web Maintaince
+- [ ] Cloud Computation
+- [ ] Cloud Application
+- [ ] Cloud Infrastructure
 - [x] X
 - [ ] English
 - [ ] Site Reliability Engineering (?)
+- [ ] Root cause analysis (RCA)
 - [ ] Reporting System
 - [ ] Analytical Skills
 - [ ] Problem Solving
@@ -43,14 +95,25 @@ Skills set - should be added in Linkedin
 - [ ] Troubleshooting
 - [ ] Technical Discussions
 - [ ] Skill Development
+- [ ] Documentation
+- [ ] Technical Documentation
 - [x] X
 - [ ] Intrusion Detection (SonarQube)
+	- [ ] Vulnerability Management
+	- [ ] Vulnerability Assessment
 - [ ] Cyber-Security
+	 - [ ] Ethical Hacking
+	 - [ ] Information Security
+	 - [ ] Network Security 
+	 - [ ] Vulnerability Management
+	 - [ ] Vulnerability Assessment
 - [ ] Control Systems
 - [x] X
 - [ ]  Apache Spark
 - [ ] PySpark
-- [ ] Microsoft azure
 - [ ] Data Engineering
 - [ ] Data Processing
+- [ ] ProofPoints
+- [ ] Microsoft Exchange
+- [ ] 
 
