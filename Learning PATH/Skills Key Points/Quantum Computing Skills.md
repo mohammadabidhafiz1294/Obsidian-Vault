@@ -6,6 +6,13 @@ Skills Listed Added to Linkedin
 - [ ] PyQuil
 - [x] X
 - [ ] Qubits - gates,circuit,measurements
+- [ ] superconducting circuits
+- [ ] trapped ions
+- [ ] photonics
+- [ ] spin qubits
+- [ ] decoherence
+- [ ] noise
+- [ ] Scalability
 - [ ] Quantum Information
 - [ ] Quantum Entanglement
 - [ ] Superposition
@@ -16,3 +23,8 @@ Skills Listed Added to Linkedin
 - [ ] Quantum algorithm for factoring
 - [ ] quantum key distribution for secure communication
 - [ ] quantum error correction for robust computation
+- [x] X(Online Resources)
+- [ ] IBM Quantum Experience 
+- [ ] Microsoft Quantum Development Kit 
+- [ ] Google Quantum Playground 
+- [ ] Qiskit Textbook
