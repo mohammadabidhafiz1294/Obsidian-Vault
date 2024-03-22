@@ -28,6 +28,8 @@ Skills Listed Added to Linkedin
 - [ ] parameterized quantum circuits (PQC)
 - [ ]  Grover's algorithm for searching
 - [ ] Quantum algorithm for factoring
+- [ ] Hamiltonian modelling
+- [ ] optimal control
 - [ ] quantum key distribution for secure communication
 - [ ] quantum error correction for robust computation
 - [x] X(Online Resources)
