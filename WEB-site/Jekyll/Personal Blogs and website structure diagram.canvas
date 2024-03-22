@@ -7,7 +7,7 @@
 		{"type":"text","text":"   **Home_page**","id":"af0fc2286f6d8c65","x":-1380,"y":-380,"width":180,"height":50},
 		{"type":"text","text":"**Archieves**","id":"01cb2bde4876b5ee","x":-1180,"y":-380,"width":160,"height":50},
 		{"id":"1f2dc7b8691b3202","type":"text","text":"###### behave files\n- _sass file configure \n- _plugins loadded here\n- time,date,url,sitemap loadded\n- configuration site map loadded","x":-1200,"y":345,"width":200,"height":305},
-		{"id":"0a0e4684c3098e4b","type":"text","text":"#### Auto-lqip feature added","x":-1200,"y":790,"width":200,"height":100},
+		{"id":"0a0e4684c3098e4b","type":"text","text":"#### Auto-lqip feature added","x":-1200,"y":790,"width":200,"height":125},
 		{"type":"text","text":"##  **abidhafiz.githubb.io**","id":"6718bf50001462d3","x":-910,"y":-60,"width":339,"height":50,"color":"1"},
 		{"type":"text","text":"### **File structure diagram**","id":"72ba08775d99a782","x":-899,"y":180,"width":317,"height":60},
 		{"id":"aed8089900c70685","type":"text","text":"#### 1._config.yml\n\nfirst loadeed","x":-850,"y":345,"width":219,"height":50},
