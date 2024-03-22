@@ -11,12 +11,14 @@
             "id": "12406515435c8d5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
+                "viewState": {
+                  "x": -731,
+                  "y": 350,
+                  "zoom": -1.2873124037820733
+                }
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning PATH/Skills Key Points/Quantum Computing Skills.md"
+                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas"
               }
             }
           },
@@ -152,8 +154,11 @@
   },
   "active": "12406515435c8d5d",
   "lastOpenFiles": [
-    "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
+    "WEB-site/Jekyll/Static site generate structure RUBY.md",
+    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
+    "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
+    "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
     "Learning PATH/Skills Key Points/DevOps Skills.md",
     "Learning PATH/Certifications/Programming & Development Certificate.md",
     "Learning PATH/Certifications/DevOps Certifications.md",
@@ -186,13 +191,10 @@
     "Hardware/Untitled.md",
     "Hardware",
     "Operating Systems/Windows",
-    "Servers/SMTP Server.md",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
-    "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.md",
     "Pasted image 20230618205830.png",
     "Pasted image 20230618001526.png",
-    "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "File System/Pasted linux file system structure.png.png",
     "File System/linux system structure 2.png",
     "File System/linux system structure.jpg",
