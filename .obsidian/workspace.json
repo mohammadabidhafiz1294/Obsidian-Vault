@@ -11,14 +11,12 @@
             "id": "12406515435c8d5d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
-                "viewState": {
-                  "x": -731,
-                  "y": -222.65052276156106,
-                  "zoom": -0.7873124037820733
-                }
+                "file": "Learning PATH/Skills Key Points/DevOps Skills.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
+                "file": "Learning PATH/Skills Key Points/DevOps Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas"
+                "file": "Learning PATH/Skills Key Points/DevOps Skills.md"
               }
             }
           },
@@ -154,9 +152,9 @@
   },
   "active": "12406515435c8d5d",
   "lastOpenFiles": [
+    "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "WEB-site/Jekyll/Static site generate structure RUBY.md",
     "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
-    "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
     "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
     "Learning PATH/Skills Key Points/DevOps Skills.md",
@@ -188,7 +186,6 @@
     "Networking/TOOLs",
     "Hardware/CPU/x86_64 Architecture.md",
     "Hardware/CPU",
-    "Hardware/Untitled.md",
     "Hardware",
     "Operating Systems/Windows",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
