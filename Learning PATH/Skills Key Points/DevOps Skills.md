@@ -22,9 +22,9 @@ Skills set - should be added in Linkedin
 - [ ] Kibana
 - [ ] OpenShift
 - [ ] Test Automation
-- [ ] Scripting
-- [ ] Shell Scripting
-- [ ] Bash Scripting
+- [x] Scripting
+- [x] Shell Scripting
+- [x] Bash Scripting
 - [ ] Kubernetes
 - [ ] Software Development (?)
 - [ ] Software Configuration Management
@@ -48,7 +48,7 @@ Skills set - should be added in Linkedin
 - [x] X
 - [ ] Linux
 - [ ] Linux Server
-- [ ] Windows Server
+- [x] Windows Server
 - [ ] Windows Server Update Services (WSUS)
 - [ ] DNS Administration
 - [ ] System Administration
@@ -59,7 +59,7 @@ Skills set - should be added in Linkedin
 - [ ] PowerShell
 - [ ] Networking
 - [ ] Server Networking
-- [ ] Bash
+- [x] Bash
 - [ ] Web Server
 - [ ] Hyper text Transfer Protocol (HTTP)
 - [ ] 
@@ -69,8 +69,8 @@ Skills set - should be added in Linkedin
 - [ ] Nginx
 - [ ] 
 - [x] X
-- [ ] Amazon Web service
-- [ ] AWS
+- [x] Amazon Web service
+- [x] AWS
 	- [ ] AWS Lamda
 	- [ ] AWS Simple Notifications Service
 - [ ] GCP
