@@ -11,6 +11,7 @@ Skills set - should be added in Linkedin
 - [ ] Django
 - [x] X
 - [ ] DevOps
+- [ ] MLOps
 - [ ] CI (Continuous Intergration )
 - [ ] Docker
 - [ ] Docker Swarm
@@ -28,6 +29,7 @@ Skills set - should be added in Linkedin
 - [ ] Kubernetes
 - [ ] Software Development (?)
 - [ ] Software Configuration Management
+- [ ] Optimization Techniques
 - [ ] Puppet
 - [ ] RebbitMQ
 - [ ] Tomcat
@@ -111,6 +113,7 @@ Skills set - should be added in Linkedin
 - [ ] Control Systems
 - [x] X
 - [ ]  Apache Spark
+- [ ] Apache Kafka
 - [ ] PySpark
 - [ ] Data Engineering
 - [ ] Data Processing

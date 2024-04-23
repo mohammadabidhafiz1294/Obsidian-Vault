@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/Docker Introduction.md",
+                "file": "Learning PATH/Skills Key Points/DevOps Skills.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/Docker Introduction.md",
+                "file": "Learning PATH/Skills Key Points/DevOps Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHNO Services/Docker Tutorial/Docker Introduction.md"
+                "file": "Learning PATH/Skills Key Points/DevOps Skills.md"
               }
             }
           },
@@ -152,6 +152,7 @@
   },
   "active": "12406515435c8d5d",
   "lastOpenFiles": [
+    "TECHNO Services/Docker Tutorial/Docker Introduction.md",
     "TECHNO Services/Docker Tutorial/Docker Engine.md",
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
@@ -188,7 +189,6 @@
     "Servers/DNS Server/NS Server or DNS server.md",
     "Servers/DNS Server/DNS Records.md",
     "Operating Systems/Linux/Linux Variable grep command.md",
-    "Operating Systems/Linux/Linux Cheat Sheet.md",
     "Learning PATH/Tech Engineer/Software Engineer",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
