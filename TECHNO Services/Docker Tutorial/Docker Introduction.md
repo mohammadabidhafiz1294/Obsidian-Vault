@@ -86,15 +86,15 @@ COMMAND | DESCRIPTION
 
 **Run Commands:**
 
-COMMAND | DESCRIPTION
----|---
-`docker attach CONTAINER` | Attach to a container
-`docker cp CONTAINER:PATH HOSTPATH` | Copy files from the container
-`docker cp HOSTPATH CONTAINER:PATH` | Copy files into the container
-`docker export CONTAINER` | Export the content of the container (tar archive)
-`docker exec CONTAINER` | Run a command inside a container
-`docker exec -it CONTAINER /bin/bash` | Open an interactive shell inside a container (there is no bash in some images, use /bin/sh)
-`docker wait CONTAINER` | Wait until the container terminates and return the exit code
+| COMMAND                               | DESCRIPTION                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------- |
+| `docker attach CONTAINER`             | Attach to a container                                                                       |
+| `docker cp CONTAINER:PATH HOSTPATH`   | Copy files from the container                                                               |
+| `docker cp HOSTPATH CONTAINER:PATH`   | Copy files into the container                                                               |
+| `docker export CONTAINER`             | Export the content of the container (tar archive)                                           |
+| `docker exec CONTAINER`               | Run a command inside a container                                                            |
+| `docker exec -it CONTAINER /bin/bash` | Open an interactive shell inside a container (there is no bash in some images, use /bin/sh) |
+| `docker wait CONTAINER`               | Wait until the container terminates and return the exit code                                |
 
 **Images:**
 
