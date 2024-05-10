@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning PATH/Skills Key Points/DevOps Skills.md",
+                "file": "Operating Systems/Linux/Linux Top Commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning PATH/Skills Key Points/DevOps Skills.md",
+                "file": "Operating Systems/Linux/Linux Top Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning PATH/Skills Key Points/DevOps Skills.md"
+                "file": "Operating Systems/Linux/Linux Top Commands.md"
               }
             }
           },
@@ -152,6 +152,11 @@
   },
   "active": "12406515435c8d5d",
   "lastOpenFiles": [
+    "Operating Systems/Linux/Linux File System Implemetation.md",
+    "Operating Systems/Linux/Linux Top Commands.md",
+    "Operating Systems/Linux/Linux Top Command.md",
+    "Operating Systems/Linux/Linux Cheat Sheet.md",
+    "Learning PATH/Skills Key Points/DevOps Skills.md",
     "TECHNO Services/Docker Tutorial/Docker Introduction.md",
     "TECHNO Services/Docker Tutorial/Docker Engine.md",
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
@@ -171,7 +176,6 @@
     "Servers/Web servers/NGINX web server.md",
     "Learning PATH/Tools Learning/Markdown-cheatsheet.md",
     "linux-system-directoies-poster.webp",
-    "Learning PATH/Skills Key Points/DevOps Skills.md",
     "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
     "WEB-site/Jekyll/Static site generate structure RUBY.md",
@@ -185,10 +189,6 @@
     "Learning PATH",
     "Servers/Monitorings & management/Heimdall.md",
     "Servers/DNS Server/SMTP server DNS records.md",
-    "Servers/DNS Server/Pi-Hole.md",
-    "Servers/DNS Server/NS Server or DNS server.md",
-    "Servers/DNS Server/DNS Records.md",
-    "Operating Systems/Linux/Linux Variable grep command.md",
     "Learning PATH/Tech Engineer/Software Engineer",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
