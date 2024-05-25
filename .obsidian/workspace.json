@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Linux/Linux Top Commands.md",
+                "file": "File System/ZFS vs RAID.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Linux Top Commands.md",
+                "file": "File System/ZFS vs RAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/Linux/Linux Top Commands.md"
+                "file": "File System/ZFS vs RAID.md"
               }
             }
           },
@@ -152,8 +152,24 @@
   },
   "active": "12406515435c8d5d",
   "lastOpenFiles": [
-    "Operating Systems/Linux/Linux File System Implemetation.md",
+    "File System/File System vs Volume Manager.md",
+    "File System/File System - INTRO.md",
+    "File System/Pasted linux file system structure.png.png",
+    "File System/linux system structure.jpg",
+    "linux-system-directoies-poster.webp",
+    "Servers/DNS Server/SMTP server DNS records.md",
+    "File System/File System Implemetation.md",
+    "File System/ZFS vs RAID.md",
+    "File System/linux system structure 2.png",
+    "Operating Systems/Linux/Linux Desktop Environment.md",
+    "Operating Systems/Linux/Linux ECO-systems Tools.md",
+    "Operating Systems/Linux/Linux Variable grep command.md",
+    "Operating Systems/Linux/LINUX kernel can't directly clean ram.md",
+    "Operating Systems/Linux/Linux File Hierarchy Structure.md",
+    "Operating Systems/Linux/Linux CPU Information in TERMINAL.md",
+    "Operating Systems/Linux/UBUNTU/UBUNTU BACKPORTS.md",
     "Operating Systems/Linux/Linux Top Commands.md",
+    "Operating Systems/Linux/Linux File System Implemetation.md",
     "Operating Systems/Linux/Linux Top Command.md",
     "Operating Systems/Linux/Linux Cheat Sheet.md",
     "Learning PATH/Skills Key Points/DevOps Skills.md",
@@ -162,41 +178,24 @@
     "TECHNO Services/Docker Tutorial/Docker Compose Structure.md",
     "TECHNO Services/Docker Tutorial/Docker commands.md",
     "TECHNO Services/Docker Tutorial/Docker Basic Hands-on.md",
-    "File System/File System - INTRO.md",
     "Cloud Provider/AWS/LocalStack",
     "Cloud Provider/GCP",
     "Cloud Provider/Azure",
     "Untitled",
     "Cloud Provider/AWS",
     "Cloud Provider",
-    "File System/ZFS vs RAID.md",
     "WEB-site/CMS & website.md",
     "README.md",
     "Short Key Notes.md",
-    "Servers/Web servers/NGINX web server.md",
-    "Learning PATH/Tools Learning/Markdown-cheatsheet.md",
-    "linux-system-directoies-poster.webp",
-    "Learning PATH/Skills Key Points/Quantum Computing Skills.md",
     "WEB-site/Jekyll/Personal Blogs and website structure diagram.canvas",
-    "WEB-site/Jekyll/Static site generate structure RUBY.md",
-    "WEB-site/Jekyll/Chirpy theme structure and rendering.md",
-    "Learning PATH/Certifications/Quantum & Quantum Computing Certifications.md",
-    "Learning PATH/Certifications/Programming & Development Certificate.md",
-    "Learning PATH/Certifications/DevOps Certifications.md",
-    "Learning PATH/Tech Engineer/Software Engineer/6 skills required to be a senior software engineer.md",
     "Learning PATH/Skills Key Points",
     "Learning PATH/Certifications",
     "Learning PATH",
-    "Servers/Monitorings & management/Heimdall.md",
-    "Servers/DNS Server/SMTP server DNS records.md",
     "Learning PATH/Tech Engineer/Software Engineer",
     "TECHNO Services/My HomeLab/MicroServices gateway with cloudflare + traefik + services.canvas",
     "Pasted image 20230620185845.png",
     "Pasted image 20230618205830.png",
     "Pasted image 20230618001526.png",
-    "File System/Pasted linux file system structure.png.png",
-    "File System/linux system structure 2.png",
-    "File System/linux system structure.jpg",
     "Techno Server/Untitled.canvas",
     "linux system structure.jpg",
     "linux system structure 2.png",
